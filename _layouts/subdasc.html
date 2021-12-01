@@ -1,0 +1,30 @@
+---
+---
+
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+
+<body>
+  {% include navdasc.html %} {% include headerdasc.html %}
+  <!-- Page Content -->
+  <div class="container mb-5">
+    <div class="row">
+  <div class="col-md-8 mb-5">
+    <div class="row">
+  
+    {{ content }}
+  </div></div>  
+  {% include sidebardasc.html %}
+
+
+  </div></div>  </div>
+  <!-- /.container -->
+  {% include footer.html %}
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="{{ site.baseurl }}/assets/vendor/jquery/jquery.min.js"></script>
+  <script src="{{ site.baseurl }}/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
