@@ -3,18 +3,22 @@ title: Venue
 layout: sub
 permalink: /venue/
 ---
+
+<h3>Page under construction!</h3>
+
+<!--- COMMENTED
 <h3>Virtual Conference Venue</h3>
 <hr/>
 <h4>Information for Attendees</h4>
 <p>
-You first need to register for the conference - <a href="http://cyber-science.org/2021/attend/" target=_new>Registration Information</a>. If you have any issues with access to the conference site or concerns about presenting, the contact email is <a href="mailto:cyberscitechcongress2020@gmail.com">mailto:cyberscitechcongress2020@gmail.com</a>.
+You first need to register for the conference - <a href="http://cyber-science.org/2022/attend/" target=_new>Registration Information</a>. If you have any issues with access to the conference site or concerns about presenting, the contact email is <a href="mailto:cyberscitechcongress2020@gmail.com">mailto:cyberscitechcongress2020@gmail.com</a>.
 </p>
 <p>
 Our conference site is now open. We are using the Whova Event Managing Application. The link to access is: <a href="https://whova.com/portal/webapp/icic_202110/" target=_new>https://whova.com/portal/webapp/icic_202110/</a>.
 </p>
 <p>
 You will need to set up a Whova account to access the conference site, using the email address that you registered with. Step-by-step instructions are located here:  
-<a href="http://cyber-science.org/2021/assets/files/WhovaLogin.pdf" target=_new>http://cyber-science.org/2021/assets/files/WhovaLogin.pdf</a>. (If you log in Whova with a different email from the one that you registered with, you will be asked for an invitation code. Please contact us and this code will be provided after verifying your registration information).
+<a href="http://cyber-science.org/2022/assets/files/WhovaLogin.pdf" target=_new>http://cyber-science.org/2022/assets/files/WhovaLogin.pdf</a>. (If you log in Whova with a different email from the one that you registered with, you will be asked for an invitation code. Please contact us and this code will be provided after verifying your registration information).
 </p>
 <p>
 It is advisable to get your account set up and become familiar with the conference site ahead of the conference. 
@@ -30,7 +34,7 @@ Your microphone should be automatically muted when you enter the session. You mu
 </p>
 <p>
 Session times are listed in Mountain Time. A table of timezones for the sessions can be viewed below:
-     <br/><img src="/2021/assets/images/programtime.png"/>
+     <br/><img src="/2022/assets/images/programtime.png"/>
  </p>
 <p>
 <b>For Presenters:</b>
@@ -44,4 +48,4 @@ Note that if the registered author is different from the paper presenter, the pr
   </p><p>
      If, for some reason, you are unable to screen share your presentation, we can upload a PDF copy of your presentation to the session. This can be downloaded by all participants and the facilitator can do the screen share for you.
 </p>
-
+-->

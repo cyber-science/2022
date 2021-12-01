@@ -4,7 +4,9 @@ layout: sub
 permalink: /organization/
 ---
 
- 
+<h3>Page under construction!</h3>
+
+<!--- COMMENTED
 <h3>Conference Organizing Committee</h3>
 <hr/>
  
@@ -39,5 +41,6 @@ Laurence T. Yang (Chair), St. Francis Xavier University, Canada
 <br/>
 Bernady O. Apduhan, Kyushu Sangyo University, Japan
 <br/>
+-->
 
 

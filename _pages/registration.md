@@ -3,7 +3,9 @@ layout: sub
 permalink: /registration/
 ---
 
+<h3>Page under construction!</h3>
 
+<!--- COMMENTED
 <h4>REGISTRATION & PAYMENT INSTRUCTIONS</h4>
 
 
@@ -54,3 +56,4 @@ permalink: /registration/
 After your successful registration completion, the IEEE CVent Registration System will send you an email with your payment confirmation/receipt and registration number.
   <br/>  <a href="https://web.cvent.com/event/60c3ff29-dfea-4c59-a543-adcdfcadae01/summary" target=_new>Link to IEEE CVent Registration System</a></p>
 </li></ol>
+-->

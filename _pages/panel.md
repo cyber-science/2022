@@ -3,6 +3,11 @@ title: Panel
 layout: sub
 permalink: /panel/
 --- 
+
+<h3>Page under construction!</h3>
+
+<!--- COMMENTED
+
 <h3>The Panel on Human Cognition and Hyper Intelligence</h3>
 <hr/>
 <br/><b>Panel Time:</b> 10:00-11:40 a.m. EST, October 26, 2021
@@ -74,3 +79,4 @@ Christina Schweikert is an Associate Professor of Computer Science at St. Johnâ€
  Dr. Vincenzo Piuri<br/> Universitaâ€™ degli Studi di Milano, Italy 
 <p><b>Biography</b>: Dr. Vincenzo Piuri is Full Professor in computer engineering at the University of Milan, Italy (since 2000). He has been Associate Professor at Polytechnic of Milan, Italy and Visiting Professor at the University of Texas at Austin, USA, and visiting researcher at George Mason University, USA. His main research interests are: artificial intelligence, computational intelligence, intelligent systems, machine learning, pattern analysis and recognition, etc. He is Fellow of the IEEE, Distinguished Scientist of ACM, and Senior Member of INNS. He is President of the IEEE Systems Council (2020-21) and IEEE Region 8 Director-elect (2021-22), and has been IEEE Vice President for Technical Activities (2015), IEEE Director, President of the IEEE Computational Intelligence Society, Vice President for Education of the IEEE Biometrics Council, Vice President for Publications of the IEEE Instrumentation and Measurement Society and the IEEE Systems Council, and Vice President for Membership of the IEEE Computational Intelligence Society. He has been Editor-in-Chief of the IEEE Systems Journal (2013-19). He received the IEEE Instrumentation and Measurement Society Technical Award (2002), the IEEE TAB Hall of Honor (2019), and the Distinguished Technical Achievement Award of the IEEE Communications Society Big Data Technical Committee (2020).
  </p>
+ -->
