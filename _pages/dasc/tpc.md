@@ -3,7 +3,11 @@ title: Technical Program Committee
 layout: subdasc2
 permalink: /dasc/tpc/
 ---
-<h3>DASC 2021 Technical Program Committee</h3>
+
+<h3>Page under construction!</h3>
+
+<!--- COMMENTED
+<h3>DASC 2022 Technical Program Committee</h3>
 
 <hr/>
 <p>Jayson Boubin, The Ohio State University, USA
@@ -35,3 +39,4 @@ permalink: /dasc/tpc/
 </p><p>Shantian Yang, University of Electronic Science and Technology of China, China
 </p><p>Zheng Yang, Southwest University, China
 </p>
+-->

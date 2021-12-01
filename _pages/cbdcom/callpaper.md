@@ -3,7 +3,10 @@ title: Call For Papers
 layout: subcbd2
 permalink: /cbdcom/callpaper/
 ---
-<h3>Call For Papers - IEEE CBDCom 2021 Tracks and Topics</h3>
+<h3>Page under construction!</h3>
+
+<!--- COMMENTED
+<h3>Call For Papers - IEEE CBDCom 2022 Tracks and Topics</h3>
 
 <hr/>
 <h4>Tracks and Topics</h4>
@@ -76,3 +79,4 @@ Smart Data & Smart Environments
 <p>Demo/Poster papers (2-4 pages) must describe working systems and be related to CBDCom. These systems may be innovative prototype implementations or mature systems that use related technology.
 
 </p>
+-->

@@ -4,6 +4,9 @@ layout: subdasc2
 permalink: /dasc/workshop/
 ---
 
+<h3>Page under construction!</h3>
+
+<!--- COMMENTED
 <h3>Call For Workshop Proposals - IEEE DASC 2021</h3>
 <hr/>
 
@@ -41,3 +44,4 @@ A Workshop/SS paper should be 5-6 pages, following the same Paper Submission Gui
 The accepted papers in a cancelled Workshop/SS may be moved to another Workshop/SS, or to the main conference track if they fit in with the quality requirement. The registration requirement and procedure for Workshop/SS papers will be determined by DASC 2021 Organizing Committee, and the registration fee will be paid directly to DASC 2021. The registration fee can be waived for a Workshop/SS’s main organizer if there are more than 10 accepted papers.
 </p><p>
 We are looking forward to your exciting proposals!</p><p>
+-->

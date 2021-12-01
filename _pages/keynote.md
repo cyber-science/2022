@@ -3,6 +3,10 @@ title: keynote
 layout: sub
 permalink: /keynote/
 ---
+
+<h3>Page under construction!</h3>
+
+<!--- COMMENTED
 <h3>Keynote Speakers</h3>
 <hr/>
 <h4>DASC Keynote - Understanding and Supporting Humans through Personal Big Data Analysis</h4>
@@ -74,3 +78,4 @@ Yi Qian received a Ph.D. degree in electrical engineering from Clemson Universit
 </p>
 
 <hr/>
+-->

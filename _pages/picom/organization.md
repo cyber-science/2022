@@ -3,7 +3,11 @@ title: Organization
 layout: subpi2
 permalink: /picom/organization/
 ---
-<h3>PICom 2021 Organizing Committee</h3>
+
+<h3>Page under construction!</h3>
+
+<!--- COMMENTED
+<h3>PICom 2022 Organizing Committee</h3>
 
 <hr/>
 
@@ -61,3 +65,4 @@ Flavia C. Delicato, Fluminense Federal Univ., Brazil<br/>
 Wu-Yuin Hwang, National Central University, Taiwan <br/>
 Tiago Cariolano, Fluminense Federal University, Brazil <br/>
 Edgar Ramos,  Ericsson Research, Finland <br/>
+-->

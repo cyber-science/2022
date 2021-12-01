@@ -3,7 +3,11 @@ title: Paper Submission
 layout: subdasc2
 permalink: /dasc/papersubmission/
 ---
-<h3>Submission and Publication - IEEE DASC 2021</h3>
+
+<h3>Page under construction!</h3>
+
+<!--- COMMENTED
+<h3>Submission and Publication - IEEE DASC 2022</h3>
 
 <hr/>
 
@@ -29,3 +33,4 @@ Workshop & Special Session paper (6 pages) are solicited.
 </li><li> Extended versions of selected papers will be considered for fast-track publication in some prestige journals
 (SCI/EI indexed).
  </li></ul> 
+ -->

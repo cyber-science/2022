@@ -3,15 +3,13 @@ title: Organization
 layout: subdasc2
 permalink: /dasc/organization/
 ---
-<h3>DASC 2021 Organizing Committee</h3>
+
+<h3>Page under construction!</h3>
+
+<!--- COMMENTED
+<h3>DASC 2022 Organizing Committee</h3>
 
 <hr/>
-
-
-
-
-
-
 
 <h4> Honorary Chairs</h4>
 
@@ -73,3 +71,4 @@ Laurence T. Yang (Chair),	St. Francis Xavier Univ., Canada<br/>
 Yuanshun Dai,	Univ. of Elec. Sci. & Tech. of China, China<br/>
 Tadashi Dohi,	Hiroshima University, Japan<br/>
 Md Zakirul Alam Bhuiyan,	Fordham Univ., USA<br/>
+-->

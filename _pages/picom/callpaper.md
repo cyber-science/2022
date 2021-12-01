@@ -3,7 +3,11 @@ title: Call For Papers
 layout: subpi2
 permalink: /picom/callpaper/
 ---
-<h3>Call For Papers - IEEE PICom</h3>
+
+<h3>Page under construction!</h3>
+
+<!--- COMMENTED
+<h3>Call For Papers - IEEE PICom 2022</h3>
 
 <hr/>
 
@@ -206,6 +210,7 @@ Flavia C. Delicato, Fluminense Federal University, Brazil<br>
 * The 7th IEEE Int'l Conf. on Cloud and Big Data Computing (CBDCom 2021)<br>
 <br>
 Hosted by  Athabasca University, Canada
+-->
 
 
 

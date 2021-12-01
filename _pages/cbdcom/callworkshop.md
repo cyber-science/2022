@@ -3,6 +3,9 @@ title: Call For
 layout: subcbd2
 permalink: /cbdcom/callworkshop/
 ---
+<h3>Page under construction!</h3>
+
+<!--- COMMENTED
 <h3>Call for Workshops and Special Sessions - IEEE CBDCom</h3>
 
 <hr/>
@@ -35,4 +38,5 @@ Please submit a proposal containing the following information to Dr. Jawad Berri
 </li><li>Authors Notification: June 01, 2021
 </li><li>Camera-ready Submission: June 20, 2021
  </li></ul>
+ -->
 

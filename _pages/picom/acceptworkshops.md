@@ -3,7 +3,11 @@ title: Accepted Workshops
 layout: subpi2
 permalink: /picom/acceptworkshops/
 ---
-<h3>Accepted Workshops - IEEE PICom 2021</h3>
+
+<h3>Page under construction!</h3>
+
+<!--- COMMENTED
+<h3>Accepted Workshops - IEEE PICom 2022</h3>
 
 <hr/>
 <ol>
@@ -18,3 +22,4 @@ Internet of Things (IWCCT2021) - <a href="https://sites.google.com/view/iwcct202
   <li>The 3rd Intelligence Big Data Processing Infrastructure and Its
 Applications (IBPI 2021) - <a href="https://ulen2000.github.io/ibpi2021/" target=_new>https://ulen2000.github.io/ibpi2021/
 </a></li></ol>
+-->

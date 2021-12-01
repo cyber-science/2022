@@ -4,6 +4,9 @@ layout: subpi2
 permalink: /picom/acceptedpapers/
 ---
 
+<h3>Page under construction!</h3>
+
+<!--- COMMENTED
 <h3>PICom Accepted Papers (Full/Regular papers)</h3>
 <ol><li> Multi-Feature Shuffle Algorithm for Root Cause Detection in Semiconductor Manufacturing - Ding Tan; Xingyu Xu; Kaixiang Yu; Sihai Zhang; Tianchi Chen
 <br/></li><li> An Improved ALNS for Solving Vehicle Routing Problem with Tight Time Constraint - Tomoki Shirai
@@ -22,3 +25,4 @@ permalink: /picom/acceptedpapers/
 <br/></li><li>Network Flow Classification and Volume Prediction using Novel Ensemble Deep Learning Architectures in the Era of the Internet of Things (IoT)	- Yoga Suhas Kuruba Manjunath; Vakar Kohli; Salman Ghaffar; Rasha Kashef
 <br/></li><li>Towards a Hierarchical Architectural Model for IoT End-User Service Composition -Federico Montori; Vincenzo Armandi; Luca Bedogni
 </li></ol>
+-->
