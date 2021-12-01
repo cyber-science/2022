@@ -4,9 +4,6 @@ layout: subpi
 permalink: /picom/
 ---
 
-<h3>Page under construction!</h3>
-
-<!--- COMMENTED
 <h4>September 5-8, 2022 - Physical Conference</h4>
 <hr /><br/>
 <p> <b>Computational Intelligence for Pervasive Systems </b></p>
@@ -17,6 +14,7 @@ PICom-2022 is the conference on Pervasive Intelligence and Computing, previously
 
 </p>
 
+<!--- COMMENTED
 <p>Along with the conference, 4 workshops will be held:
   </p><p>
   <ol>
