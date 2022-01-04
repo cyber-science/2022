@@ -11,7 +11,6 @@ permalink: /picom/callpaper/
 
 <hr/>
 
-<h4>Tracks and Topics</h4>
 <p><b>Track 1: Computational Intelligence</b></p>
 <p><b>Track 2: Intelligent Networks, Middleware and Applications</b></p>
 <p><b>Track 3: Pervasive Computing and Activity/Affect Recognition</b></p>
