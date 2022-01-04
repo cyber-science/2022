@@ -4,42 +4,54 @@ layout: subdasc2
 permalink: /dasc/organization/
 ---
 
+<h3>Page under construction!</h3>
+
+<!--- COMMENTED
 <h3>DASC 2022 Organizing Committee</h3>
 
-<h4> Honorary Chair</h4>
-Xiang Yang, Deakin University (Australia)<br/>
+<hr/>
 
-<h4>General Chair</h4>
-Raymond Choo, The University of Texas at San Antonio (USA)
+<h4> Honorary Chairs</h4>
 
-<h4>General Co-Chair</h4>
-Bo Yang, University of Electronic Science and Technology of China (China)
 
-<h4>Program Chair</h4>
-Claudio Savaglio, ICAR-CNR (Italy)
+Vincenzo Piuri, 	University of Milan, Italy
+<br/>Geoffrey Fox, Indiana University, USA <br/>
+Andrew Perrin, Athabasca University, Canada <br/>
 
-<h4>Program Co-chairs</h4>
-Anna Kobusinska, Poznan University of Technology (Poland)<br/>
-Adnan Anwar, Deakin University (Australia)<br/>
-Mohammad Mehedi Hassan, King Saud University (KSA)<br/>
-Franco Zambonelli, Università degli Studi  di Modena e Reggio Emilia (Italy)
+<h4>General Chairs	</h4>
 
-<h4>Workshop & Special Session Chairs</h4>
-Andrea Tundis, Technische Universität Darmstadt (Germany)<br/>
-Junggab Son, Kennesaw State University (GA, USA)
+Rossitza Marinova,	Concordia Univ. of Edmonton, Canada
+<br/>Zakirul Alam Bhuiyan,	Fordham University, USA
 
-<!--
+<h4>General Executive Chairs	</h4>
+Henry Leung,	The University of Calgary, Canada
+<br/>Mohammad Zulkernine,	Queen's University, Canada
+
+<h4>Program Chairs 	</h4>
+ Bo Yang,	Univ. of Elec. Sci. & Tech. of China, China
+<br/>Aniello Castiglione,	Univ. of Naples Parthenope, Italy
+
+
+<h4>Program Vice-Chairs	</h4>
+Lunke Fei,	Guangdong Univ. of Technology, China<br/>
+Yanping Xiang,	Univ. of Elec. Sci. & Tech. of China, China
+<br/>Muhammad Imran, King Saud University, KSA
+
+<h4>Workshop/Special Session Chairs</h4>
+Mostafa Fouda, Idaho State University, USA
+<br/>Pradip Kumar Sharma, University of Aberdeen, UK
+
 <h4>Demo/Poster/WiP Chair</h4>
 Saqib Ali, Univ. of Agri. Faisalabad Pakistan
 <br/>Peng Hao, Beihang University, China 
--->
 	
-<h4>Publicity Chairs</h4>
-Changqing Luo, Virginia Commonwealth University (USA)<br/>
-Keke Gai, Beijing Institute of Technology (China)
+<h4>Publicity Chairs	</h4>
+Mubashir Rehmani, Cork Inst. of Tech., Ireland
+<br/>Haomiao Yang, Univ. of Elec. Sci. & Tech. of China
+<br/>Preeti Mishra, Graphic Era Deemed to be Univ., India 
 	
-<!--
-<h4>International Advisory Committee (alphabetical)</h4>
+<h4>
+International Advisory Committee (alphabetical)</h4>
 Mohammed Atiquzzaman, Univ. of Oklahoma, USA
 <br/>Davide Bacciu, University of Pisa, Italy
 <br/>Yi Chang, Jilin University, China
@@ -50,12 +62,13 @@ Mohammed Atiquzzaman, Univ. of Oklahoma, USA
 <br/>Tatsuhiro Tsuchiya, Osaka University, Japan
 <br/>Wei Wang, University of New South Wales, Australia
 <br/>Ji-Rong Wen, Renmin University of China, China	
+
+
+
+<h4>Steering Committee	</h4>
+Jianhua Ma (Chair),	Hosei University, Japan<br/>
+Laurence T. Yang (Chair),	St. Francis Xavier Univ., Canada<br/>
+Yuanshun Dai,	Univ. of Elec. Sci. & Tech. of China, China<br/>
+Tadashi Dohi,	Hiroshima University, Japan<br/>
+Md Zakirul Alam Bhuiyan,	Fordham Univ., USA<br/>
 -->
-
-
-<h4>Steering Committee</h4>
-Jianhua Ma, Hosei University (Japan)<br/>
-Laurence T. Yang, St. Francis Xavier University (Canada)<br/>
-Yuanshun Dai, Univ. of Elec. Sci. & Tech. of China (China)<br/>
-Tadashi Dohi, Hiroshima University (Japan)<br/>
-Md Zakirul Alam Bhuiyan, Fordham University (USA)

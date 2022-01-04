@@ -4,41 +4,45 @@ layout: subcst2
 permalink: /cyberscitech/organization/
 ---
 
+<h3>Page under construction!</h3>
 
+<!--- COMMENTED
 <h3>CyberSciTech 2022 Organizing Committee</h3>
 <hr/>
 
-<h4> Honorary Chair </h4>
-Vincenzo Piuri, University of Milan (Italy)<br>
+ <h4> Honorary Chairs </h4>
+Stephen S. Yau, Arizona State University, USA <br>
+Shauna Zenteno, Athabasca University, Canada<br/>
  
-<h4>General Chair</h4>
-Giancarlo Fortino, University of Calabria (Italy)<br/>
+<h4>General Chairs</h4>
+Fuhua (Oscar) Lin, Athabasca University, Canada 
+<br/>Henry Leung, The University of Calgary, Canada
+<br/>
+<h4>General Executive Chair</h4>
+Giancarlo Fortino, University of Calabria, Italy
+<br/>
+<h4>Program Chairs </h4>
+Antonio Liotta, Edinburgh Napier University, UK
+<br/>Xiaokang Zhou, Shiga University, Japan <br/>
+Zhipeng Cai, Georgia State University, USA<br/>
 
-<h4>General Co-Chairs</h4>
-Kevin Wang, University of Auckland (Spain)<br/>
-Antonio Liotta, University of Bolzano (Italy)<br/>
+<h4> Program Co-Chairs  </h4>
 
-<h4>Program Chair</h4>
-Raffaele Gravina, University of Calabria (Italy)<br/>
-
-<h4>Program Co-Chairs</h4>
-Xiaokang Zhou, Shiga University (Japan)<br/>
-Hassan Ghasemzadeh, ASU, (USA)
-
-<h4> Program Tracks Co-Chairs  </h4>
-Track 1: Katina Kralevska, Norwegian University of Science and Technology (Norway)<br/>
-Track 2: Yan Huang, Kennesaw State University (USA)<br/>
-Track 3: TBA<br/>
-Track 4: Weimin Li, Shanghai University (China)<br/>
-Track 5: TBA<br/>
-Track 6: Wasim Ahmad, University of Glasgow, UKWasim Ahmad, University of Glasgow (UK)<br/>
-Late Breaking Innovation Track: Celimuge Wu, The University of Electro-Communications (Japan)<br/>
-WiP & Poster Track: Lai Tu, Huazhong University of Sci.&Tech (China)<br/>
+Katina Kralevska, Norwegian University of Science and Technology, Norway<br/>
+Pavol Zavarsky, Concordia University of Edmonton, Canada<br/>
+Yan Huang, Kennesaw State University, USA<br/>
+Weimin Li, Shanghai University, China<br/>
+Xiaokun Zhang, Athabasca University, Canada<br/>
+Zhongyang Han, Dalian University of Technology, China<br/>
+Wasim Ahmad, University of Glasgow, UKWasim Ahmad, University of Glasgow, UK<br/>
+Celimuge Wu, The University of Electro-Communications, Japan<br/>
+Lai Tu, Huazhong University of Sci.&Tech. China<br/>
+Wenjia Li, New York Institute of Technology, USA<br/>
 
 <h4> Workshop & Special Session Chairs	</h4>
-Wei Song, Shanghai Ocean Univer. (China)<br/>
-Pan Wang, Nanjing University of Posts & Telecom. (China)<br/>
-Ao Guo, Nagoya University (Japan)<br/>
+Ali Dewan, Athabasca University, Canada <br/>
+Kenichi Kourai, Kyushu Institute of Technology, Japan<br/>
+Pan Wang, Nanjing University of Posts & Telecom., China<br/>
 
 <h4>Tutorial Chair</h4> 
 Hao Zhu, Chongqing Univ. of Posts & Telecomm., China </br>
@@ -48,25 +52,29 @@ Frank Hsu, Fordham University, USA </br>
 
 
 <h4>Special Issue Chairs </h4>
-Gautam Srivastava, Brandon University (Canada) <br/>
-Ke Yan, China Jiliang University (China)<br/>
+Gautam Srivastava, Brandon University, Canada <br/>
+Ke Yan, China Jiliang University, China<br/>
 
-<h4> Publicity Chairs </h4>
-Rafiul Hassan, University of Maine (USA)<br/>
-Sen Qiu, Dalian University of Tech. (China)<br/>
+<h4> International and Industrial Liaison & Publicity Chairs </h4>
+Yuji Suga, Internet Initiative Japan, Japan <br/>
+Kevin Cole, Athabasca University, Canada<br/>
+Xiaohua Feng, University of Bedfordshire, UK<br/>
+Chunyu Ai, University of South Carolina Upstate, USA<br/>
+Reza Soltani, York University, Canada<br/>
+Ao Guo, Nagoya University, Japan<br/>
 
 <h4>Steering Committee</h4>
-Jianhua Ma (Chair), Hosei University (Japan)<br/>
-Laurence T. Yang, (Chair), St. Francis Xavier University (Canada)<br/>
-Hui-Huang Hsu, Tamkang University (Taiwan)<br/>
-Qun Jin, Waseda University (Japan)<br/>
-Jun Wang, University of Central Florida (USA)<br/>
-Stephen S. Yau, Arizona State University (USA)<br/>
-Mazin Yousif, T-Systems International (USA)<br/>
-Albert Zomaya, The University of Sydney (Australia)<br/>
-Oscar Lin, Athabasca University (Canada)<br/>
-Bernady O. Apduhan, Kyushu Sangyo University (Japan)<br/>
-Giancarlo Fortino, University of Calabria (Italy)<br/>
+Jianhua Ma (Chair), Hosei University, Japan<br/>
+Laurence T. Yang, (Chair), St. Francis Xavier University, Canada<br/>
+Hui-Huang Hsu, Tamkang University, Taiwan<br/>
+Qun Jin, Waseda University, Japan<br/>
+Jun Wang, University of Central Florida, USA<br/>
+Stephen S. Yau, Arizona State University, USA<br/>
+Mazin Yousif, T-Systems International, USA<br/>
+Albert Zomaya, The University of Sydney, Australia<br/>
+Vincenzo Piuri, Universita' degli Studi di Milano, Italy<br/>
+Oscar Lin, Athabasca University, Canada<br/>
+Bernady O. Apduhan, Kyushu Sangyo University, Japan <br/>
 
 <h4> Advisory Committee </h4>
 Julien Bourgeois, UBFC/FEMTO-ST Institute/CNRS, France<br/>
@@ -92,4 +100,5 @@ Qiang Zhang, Dalian University of Technology, China<br/>
 Yanchun Zhang, Victoria University, Australia<br/>
 Qiangfu Zhao, The University of Aizu, Japan<br/>
 Qingguo Zhou, Lanzhou University, China<br/>
+-->
  

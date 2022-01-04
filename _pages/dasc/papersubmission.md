@@ -4,24 +4,33 @@ layout: subdasc2
 permalink: /dasc/papersubmission/
 ---
 
+<h3>Page under construction!</h3>
+
+<!--- COMMENTED
 <h3>Submission and Publication - IEEE DASC 2022</h3>
 
 <hr/>
+
 <p>
 <b> For original papers in: </b> <br>
  Regular Tracks: <b> 6-8 </b>pages <br>
  WiP/Workshop/Special Session Tracks: <b>4-6 </b>pages <br>
  Poster Track: <b>2-4 </b> pages <br>
 </p>
+<p>
+Authors are invited to submit their original research work using IEEE CS Proceedings format via EDAS: https://edas.info/N28323
 
-<p>Authors are invited to submit their original research work that has not previously been submitted or published in any other venue. Regular, work-in-progress (WiP), workshop/special session, and poster papers 
- need to be submitted via Easychair (<a href="https://easychair.org/conferences/?conf=dascpicomcbdcomcyber" target =_new>https://easychair.org/conferences/?conf=dascpicomcbdcomcyber</a>).
-</p><p>
-Papers should be prepared in IEEE CS Proceedings format. IEEE formatting information: <a href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html" target=_new>http://www.ieee.org/conferences_events/conferences/publishing/templates.html</a>
-</p><p>
-All accepted papers in the main tracks, workshops, special sessions and demos/posters will be published in an IEEE Computer Society proceedings (IEEE-DL and EI indexed). 
-Best Paper Awards will be presented to high quality papers. Selected papers will be recommended to prestigious journal <b>
-<a href="http://cyber-science.org/2022/special-issues/" target=_new>Special Issues</a></b>. 
-</p><p>
-Some papers originally submitted as full papers can be accepted as short papers or posters during the review process. In such cases, the authors will need to reduce the paper accordingly when preparing the camera-ready version. At least one of the authors of any accepted paper is requested to register and present the paper at the conference.
 </p>
+<br>
+Papers should be prepared in IEEE CS Proceedings format. IEEE formatting information: http://www.ieee.org/conferences_events/conferences/publishing/templates.html
+<br>
+<p>
+Regular paper (8 pages), Work-in Progress (WiP) paper (4~6 pages), Demo/Poster paper (2~4 pages),
+Workshop & Special Session paper (6 pages) are solicited. 
+  </p>
+<ul><li> Accepted papers will be included into the proceedings published by IEEE CPS (EI indexed).
+</li><li> At least one author of any accepted paper is required to register and present the paper at the conference.
+</li><li> Extended versions of selected papers will be considered for fast-track publication in some prestige journals
+(SCI/EI indexed).
+ </li></ul> 
+ -->
