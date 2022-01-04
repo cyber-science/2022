@@ -4,7 +4,7 @@ layout: subpi
 permalink: /picom/
 ---
 
-<h4>September 5-8, 2022 - Physical Conference</h4>
+<h4>September 12-15, 2022 - Physical Conference</h4>
 <hr /><br/>
 <p> <b>Computational Intelligence for Pervasive Systems </b></p>
 
