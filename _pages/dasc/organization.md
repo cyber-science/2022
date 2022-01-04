@@ -26,10 +26,28 @@ Mohammad Mehedi Hassan, King Saud University (KSA)<br/>
 Franco Zambonelli, Universita' degli Studi di Modena e Reggio Emilia (Italy)
 
 <h4>Workshop & Special Session Chairs</h4>
-
+Andrea Tundis, Technische Universitat Darmstadt (Germany)<br/>
+Junggab Son, Kennesaw State University (GA, USA)
 
 <h4>Publicity Chairs</h4>
-
+Changqing Luo, Virginia Commonwealth University (USA)<br/>
+Keke Gai, Beijing Institute of Technology (China)
 
 <h4>Steering Committee</h4>
+Jianhua Ma, Hosei University (Japan)<br/>
+Laurence T. Yang, St. Francis Xavier University (Canada)<br/>
+Yuanshun Dai, Univ. of Elec. Sci. & Tech. of China (China)<br/>
+Tadashi Dohi, Hiroshima University (Japan)<br/>
+Md Zakirul Alam Bhuiyan, Fordham University (USA)
 
+<h4>Advisory Committee</h4>
+Mohammed Atiquzzaman, Univ. of Oklahoma, USA<br/>
+Davide Bacciu, University of Pisa, Italy<br/>
+Yi Chang, Jilin University, China<br/>
+Nobuyasu Kanekawa, Hitachi, Ltd., Japan<br/>
+Sy-Yen Kuo, National Taiwan University, Taiwan<br/>
+Irwin King, The Chinese University of Hong Kong,China<br/>
+Jiming Liu, Hong Kong Baptist University, China<br/>
+Tatsuhiro Tsuchiya, Osaka University, Japan<br/>
+Wei Wang, University of New South Wales, Australia<br/>
+Ji-Rong Wen, Renmin University of China, China	
