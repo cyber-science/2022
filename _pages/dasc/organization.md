@@ -17,12 +17,13 @@ Raymond Choo, The University of Texas at San Antonio (USA)
 Bo Yang, University of Electronic Science and Technology of China (China)
 
 <h4>Program Chair</h4>
-
+Claudio Savaglio, ICAR-CNR (Italy)
 
 <h4>Program Co-chairs</h4>
-
-<h4> Program Tracks Co-Chairs</h4>
-
+Anna Kobusinska, Poznan University of Technology (Poland)<br/>
+Adnan Anwar, Deakin University (Australia)<br/>
+Mohammad Mehedi Hassan, King Saud University (KSA)<br/>
+Franco Zambonelli, Università degli Studi  di Modena e Reggio Emilia (Italy)
 
 <h4>Workshop & Special Session Chairs</h4>
 
