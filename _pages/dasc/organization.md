@@ -23,7 +23,7 @@ Claudio Savaglio, ICAR-CNR (Italy)
 Anna Kobusinska, Poznan University of Technology (Poland)<br/>
 Adnan Anwar, Deakin University (Australia)<br/>
 Mohammad Mehedi Hassan, King Saud University (KSA)<br/>
-Franco Zambonelli, Università degli Studi  di Modena e Reggio Emilia (Italy)
+Franco Zambonelli, Universita' degli Studi di Modena e Reggio Emilia (Italy)
 
 <h4>Workshop & Special Session Chairs</h4>
 
