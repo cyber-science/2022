@@ -19,7 +19,6 @@ permalink: /picom/callpaper/
 
 <br/>
 <b>Topics</b> of interests include, but are not restricted to:<br/>
-<br/>
 - Deep Learning and Deep Computation<br/>
 - Big Data and Smart Data<br/>
 - Brain-inspired Computing<br/>
