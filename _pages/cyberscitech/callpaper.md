@@ -3,15 +3,18 @@ title: Call For Papers
 layout: subcst2
 permalink: /cyberscitech/callpaper/
 ---
-<h3>Page under construction!</h3>
 
-<!--- COMMENTED
+
 <h3>Call For Papers - IEEE CyberSciTech 2022 Tracks and Topics</h3>
+<hr/>
+
+<h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2022/assets/files/CFP_CyberSciTech2022.pdf" target=_new>here</a></b> ** </h5> 
 
 <hr/>
+
+
 <h4>Track 1: Cyberspace Theory & Technology</h4>
-<br/>
-Cyberspace Property, Structure & Models
+<br/>Cyberspace Property, Structure & Models
 <br/>Cyber Pattern, Evolution, Ecology & Science
 <br/>SDN/SDS, 5G/6G, Vehicle & Novel Network
 <br/>Cloud, Fog, Edge & Green Computing
@@ -48,4 +51,5 @@ Cyberspace Property, Structure & Models
 <br/>Affective/Mind Cognition & Computing
 <br/>Brain/Mind Machine Interface
 <br/>Intelligent Multimedia Technology
--->
+
+<h4>Track 6: Cyber Life & Wellbeing</h4>

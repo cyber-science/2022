@@ -10,7 +10,7 @@ permalink: /cbdcom/callpaper/
 
 <h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2022/assets/files/CFP_CBDCom2022.pdf" target=_new>here</a></b> ** </h5> 
 
-
+<hr/>
 
 <p><b>Track 1: Data Science & Analytics  </b></p>
 Big Data Fundamentals and Novel Paradigms
