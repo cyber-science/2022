@@ -25,11 +25,11 @@ Giuseppe M. L. Sarnè, University of Milan-Bicocca, (Italy)<br/>
 Marco Levorato, University of California, Irvine (USA)<br/>
 Deepak Puthal, Newcastle University (UK)
 
-<h4> Program Tracks Co-Chairs</h4>
-Track 1: Esteban Clua – Fluminense Federal University (Brazil), Nicolas Tsapatsoulis, Cyprus University of Technology (Cyprus)<br/>
-Track 2: Thais Batista, Federal University of Rio Grande do Norte (Brazil), Jiang Fan, University of Northern British Columbia (Canada)<br/>
-Track 3: Pietro Manzoni, Universitat Politècnica de València (Spain), Ali Dewan, Athabasca University (Canada)<br/>
-Track 4: Claudio Miceli – Federal University of Rio de Janeiro (Brazil), Roberto Morabito, Ericsson Research, Jorvas (Finland)
+<h4>Tracks Co-Chairs</h4>
+Track 1: Computational Intelligence (Track Chair: Wei Li, The University of Sydney, Australia)<br/>
+Track 2: Intelligent Networks, Middleware and Applications (Track Chair: Xiuwen Fu, Shanghai Maritime University, China)<br/>
+Track 3: Pervasive Computing and Activity/Affect Recognition (Track Chair: Franco Cicirelli, ICAR-CNR, Italy)<br/>
+Track 4: Smart Object, Environment, System and City (Track Chair: Andrea Vinci, ICAR-CNR, Italy)
 
 <h4>Workshop & Special Session Chairs</h4>
 Claudio Miceli de Farias, Federal University of Rio de Janeiro (Brazil)

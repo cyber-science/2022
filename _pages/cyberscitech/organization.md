@@ -8,14 +8,15 @@ permalink: /cyberscitech/organization/
 <h3>CyberSciTech 2022 Organizing Committee</h3>
 <hr/>
 
-<h4> Honorary Chair </h4>
-Vincenzo Piuri, University of Milan (Italy)
+<h4> Honorary Chairs </h4>
+Vincenzo Piuri, University of Milan (Italy)<br/>
+Stephen S. Yau, Arizona State University (USA)
  
 <h4>General Chair</h4>
 Giancarlo Fortino, University of Calabria (Italy)
 
 <h4>General Co-Chairs</h4>
-Kevin Wang, University of Auckland (Spain)<br/>
+Kevin Wang, University of Auckland (New Zeland)<br/>
 Antonio Liotta, University of Bolzano (Italy)
 
 <h4>Program Chair</h4>
@@ -25,15 +26,14 @@ Raffaele Gravina, University of Calabria (Italy)
 Xiaokang Zhou, Shiga University (Japan)<br/>
 Hassan Ghasemzadeh, ASU (USA)
 
-<h4> Program Tracks Co-Chairs  </h4>
-Track 1: Katina Kralevska, Norwegian University of Science and Technology (Norway)<br/>
-Track 2: Yan Huang, Kennesaw State University (USA)<br/>
-Track 3: TBA<br/>
-Track 4: Weimin Li, Shanghai University (China)<br/>
-Track 5: TBA<br/>
-Track 6: Wasim Ahmad, University of Glasgow, UKWasim Ahmad, University of Glasgow (UK)<br/>
-Late Breaking Innovation Track: Celimuge Wu, The University of Electro-Communications (Japan)<br/>
-WiP & Poster Track: Lai Tu, Huazhong University of Sci. & Tech. (China)
+<h4>Track Co-Chairs</h4>
+Katina Kralevska, Norwegian University of Science and Technology (Norway)<br/>
+Yan Huang, Kennesaw State University (USA)<br/>
+Weimin Li, Shanghai University (China)<br/>
+Wasim Ahmad, University of Glasgow, UKWasim Ahmad, University of Glasgow (UK)<br/>
+Celimuge Wu, The University of Electro-Communications (Japan)<br/>
+Lai Tu, Huazhong University of Sci. & Tech. (China)<br/>
+Xiaokun Zhang, Athabasca University (Canada)
 
 <h4> Workshop & Special Session Chairs	</h4>
 Wei Song, Shanghai Ocean University (China)<br/>
@@ -42,11 +42,12 @@ Ao Guo, Nagoya University (Japan)
 
 <h4>Special Issue Chairs </h4>
 Gautam Srivastava, Brandon University (Canada) <br/>
-Ke Yan, China Jiliang University (China)
+Ke Yan, National University of Singapore (Singapore)
 
 <h4> Publicity Chairs </h4>
 Rafiul Hassan, University of Maine (USA)<br/>
-Sen Qiu, Dalian University of Technology (China)
+Sen Qiu, Dalian University of Technology (China)<br/>
+Hongxin Yan, Athabasca University (Canada)
 
 <h4>Steering Committee</h4>
 Jianhua Ma (Chair), Hosei University (Japan)<br/>
