@@ -8,7 +8,7 @@ permalink: /dasc/organization/
 <hr/>
 
 <h4>Honorary Chair</h4>
-Xiang Yang, Deakin University (Australia)<br/>
+Xiang Yang, Swinburne University of Technology (Australia)<br/>
 
 <h4>General Chair</h4>
 Raymond Choo, The University of Texas at San Antonio (USA)
