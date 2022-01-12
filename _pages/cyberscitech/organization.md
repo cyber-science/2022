@@ -33,7 +33,9 @@ Weimin Li, Shanghai University (China)<br/>
 Wasim Ahmad, University of Glasgow, UKWasim Ahmad, University of Glasgow (UK)<br/>
 Celimuge Wu, The University of Electro-Communications (Japan)<br/>
 Lai Tu, Huazhong University of Sci. & Tech. (China)<br/>
-Xiaokun Zhang, Athabasca University (Canada)
+Xiaokun Zhang, Athabasca University (Canada)<br/>
+Mirko Viroli, University of Bologna (Italy)<br/>
+Roberto Casadei, University of Bologna (Italy)
 
 <h4> Workshop & Special Session Chairs	</h4>
 Wei Song, Shanghai Ocean University (China)<br/>
