@@ -32,10 +32,12 @@ Track 3: Pervasive Computing and Activity/Affect Recognition (Track Chair: Franc
 Track 4: Smart Object, Environment, System and City (Track Chair: Andrea Vinci, ICAR-CNR, Italy)
 
 <h4>Workshop & Special Session Chairs</h4>
-Claudio Miceli de Farias, Federal University of Rio de Janeiro (Brazil)
+Claudio Miceli de Farias, Federal University of Rio de Janeiro (Brazil)<br/>
+Vasilis Friderikos, King's College London (UK)
 
 <h4>Publicity Chairs</h4>
-Celimuge Wu, The University of Electro-Communications (Japan)
+Celimuge Wu, The University of Electro-Communications (Japan)<br/>
+Tu Nguyen, Kennesaw State University (USA)
 
 <h4>Steering Committee</h4>
 Jianhua Ma, Hosei University (Japan)<br/>
