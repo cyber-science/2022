@@ -9,11 +9,11 @@ permalink: /venue/
 
 <h4>Eurolido Hotel</h4>
 
-Web: <a href="www.eurolido.it">www.eurolido.it</a><br/>
-Address: Strada Statale 18, n. 90 - Falerna (CZ), Italy<br/>
-Phone: +39.0968.93721<br/>
-Email: info@eurolido.it<br/>
-WhatsApp: +39.391.1373902<br/>
+<b>Web</b>: <a href="https://www.eurolido.it">www.eurolido.it</a><br/>
+<b>Address</b>: Strada Statale 18, n. 90 - Falerna (CZ), Italy<br/>
+<b>Phone</b>: +39.0968.93721<br/>
+<b>Email</b>: info@eurolido.it<br/>
+<b>WhatsApp</b>: +39.391.1373902<br/>
 
 <img src="/2022/assets/images/eurolido.png"/>
 
