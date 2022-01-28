@@ -7,6 +7,17 @@ permalink: /venue/
 <h3>Conference Venue</h3>
 <hr/>
 
+The Venue of the Conference is the wonderful Tyrrhenian Coast of Calabria, the most sunny region of the Italian Peninsula in the South Italy, also known as the "Toe of the Boot".
+
+In particular, the Conference venue will be at <b>Hotel Village "Eurolido"</b> on the Tyrrhenian Sea.<br/> 
+
+The venue is very near (<20Km) the International Airport of Lamezia Terme and the "Lamezia Centrale" train station.
+For international travellers the best hub to change the flight for Lamezia Terme is usually Rome Fiumicino.
+The "Lamezia Centrale" train station is well connected to "Rome Termini" train station (multiple daily trains).
+Travelling by car, the Hotel Village "Eurolido" is a few hundred meters away the freeway exit; the trip can be easily planned on Google Maps.
+
+<hr/>
+
 <h4>Eurolido Hotel</h4>
 
 <b>Web</b>: <a href="https://www.eurolido.it">www.eurolido.it</a><br/>
