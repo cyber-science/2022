@@ -30,4 +30,5 @@ Alternatively, it is possible to book:<br/>
 - individual b&b days for 70&euro;/day in single room or 50&euro;/day per person in double room.<br/>
 - single meals for 20&euro;.<br/>
 
-For bookings and for any different requirements you might have, please contact the hotel directly (<a href="mailto:info@eurolido.it"><u><b>info@eurolido.it</b></u></a>).
+To book your accomodation, please print, fill and sign this <a href="http://cyber-science.org/2022/assets/files/IEEE_CPDC2022_Eurolido_Hotel_form.docx"><u><b>form</b></u></a> and send it to <a href="mailto:info@eurolido.it"><u><b>info@eurolido.it</b></u></a>.
+For booking information and for any different requirements you might have, please contact the hotel directly via email.
