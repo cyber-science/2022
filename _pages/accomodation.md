@@ -11,9 +11,10 @@ Since the conference <a href="http://cyber-science.org/2022/venue/"><u><b>venue<
 We strongly suggest to exploit such offer as public transportation is not efficient and it is advisable to lodge in the conference hotel.<br/>
 
 Shuttle transfer:<br/>
-Lamezia Terme Airport (or Lamezia Terme train station) to Eurodido Hotel (and viceversa):<br/> 
+Lamezia Terme Airport (or Lamezia Terme train station) to Eurolido Hotel (and viceversa):<br/> 
 - 30&euro; one way fixed rate from 1 to 3 passengers.<br/> 
 - 40&euro; one way fixed rate for 4 passengers.<br/>  
+Note: If there will be other participants arriving at the same time, the shuttle service will arrange only one transfer to permit the sharing of the cost among the participants.<br/>  
 
 IEEE CPDC2022 Package: Check-in September 11th - Check-out September 15th:<br/>
 - Single Room - Full Board: 390&euro; per person<br/>
