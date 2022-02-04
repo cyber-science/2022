@@ -37,7 +37,8 @@ Vasilis Friderikos, King's College London (UK)
 
 <h4>Publicity Chairs</h4>
 Celimuge Wu, The University of Electro-Communications (Japan)<br/>
-Tu Nguyen, Kennesaw State University (USA)
+Tu Nguyen, Kennesaw State University (USA)<br/>
+Diego Méndez Chaves, Pontificia Universidad Javeriana (Colombia)
 
 <h4>Steering Committee</h4>
 Jianhua Ma, Hosei University (Japan)<br/>
