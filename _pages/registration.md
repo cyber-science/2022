@@ -44,11 +44,11 @@ permalink: /registration/
 <li><a name="2"><b>Registration and all Applicable Fees</b></a><br/>
 <table border=1><tr><td>
 <b>Presenter Registration</b></td><td>	<b>Amount</b>
-</td></tr><tr><td>Member Fee	</td><td>600
-</td></tr><tr><td>Non-Member Fee	</td><td>720
-</td></tr><tr><td>Student Member Fee</td><td>300
-</td></tr><tr><td>Student Non-Member Fee</td><td>360
-</td></tr><tr><td>Life Member Fee	</td><td>330
+</td></tr><tr><td>Member Fee	</td><td>600&euro;
+</td></tr><tr><td>Non-Member Fee	</td><td>720&euro;
+</td></tr><tr><td>Student Member Fee</td><td>300&euro;
+</td></tr><tr><td>Student Non-Member Fee</td><td>360&euro;
+</td></tr><tr><td>Life Member Fee	</td><td>330&euro;
 </td></tr></table>
 </li>
 <br/>
