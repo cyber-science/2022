@@ -13,7 +13,7 @@ permalink: /registration/
 <li>	After successful payment transaction, a payment receipt will be sent to you by email.</li>
 <li>	Each participant is requested to fill out the other fields in the IEEE CVent Registration system.</li>
 <li>	All registered participants can attend all online conference session and download the conference proceedings.</li>
-<li>	<a href="https://web.cvent.com/event/60c3ff29-dfea-4c59-a543-adcdfcadae01/summary" target=_new>Link to IEEE Membership Information.</a></li>
+<!---<li>	<a href="https://web.cvent.com/event/60c3ff29-dfea-4c59-a543-adcdfcadae01/summary" target=_new>Link to IEEE Membership Information.</a></li>-->
 </ul>
 <br/>
 
@@ -28,7 +28,7 @@ permalink: /registration/
 <li>If you are registering in this category, you will enter the information for your accepted paper, including the Paper Type (Main Conference, Workshop, or Poster), 
     Paper ID (10-digit EDAS paper ID), and Paper Title. (<b>Note: If the same author registers more than 5 papers, the 6th paper is free. Do not enter and pay for 
 	this 6th paper in the Cvent registration, as it is already entered in the EDAS site. This applies to one paper for every 6 papers sunmitted by the same author.</b>).</li>
-<li>The deadline for registration and FULL payment for authors/presenters is (September 27, 2021 at 23:30 MST). If your full payment is not received by the deadline, your paper will be removed from the proceedings.</li>
+<li><!---The deadline for registration and FULL payment for authors/presenters is (September 1, 2022 at 23:30 MST).-->If your full payment is not received by the deadline, your paper will be removed from the proceedings.</li>
 <li>If you miss any portion of your papyment (e.g. an extra page), you may go back into the registration system and add it, even after you have completed your initial registration.</li>
 </ul>
 </li>
