@@ -7,7 +7,7 @@ permalink: /registration/
 <h4>REGISTRATION</h4>
 <hr/>
 
-<b>Registration Fees</b><br/>
+<b><i>Early-Bird</i> Registration Fees*</b><br/>
 <table border=1><tr><td>
 <b>Presenter Registration</b></td><td>	<b>Amount</b>
 </td></tr><tr><td>Member Fee	</td><td>600&euro;
@@ -16,6 +16,18 @@ permalink: /registration/
 </td></tr><tr><td>Student Non-Member Fee</td><td>360&euro;
 </td></tr><tr><td>Life Member Fee	</td><td>330&euro;
 </td></tr></table>
+* Early-bird registration is available until the camera-ready paper registration deadline (July 15, 2022).<br/>
+
+<b><i>Late</i> Registration Fees</b><br/>
+<table border=1><tr><td>
+<b>Presenter Registration</b></td><td>	<b>Amount</b>
+</td></tr><tr><td>Member Fee	</td><td>720&euro;
+</td></tr><tr><td>Non-Member Fee	</td><td>865&euro;
+</td></tr><tr><td>Student Member Fee</td><td>360&euro;
+</td></tr><tr><td>Student Non-Member Fee</td><td>435&euro;
+</td></tr><tr><td>Life Member Fee	</td><td>400&euro;
+</td></tr></table>
+ 
 
 
 <!---
