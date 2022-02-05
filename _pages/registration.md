@@ -17,10 +17,11 @@ permalink: /registration/
 </ul>
 <br/>
 
-<ol><li>
+<ol>
 
-<a name="1"><b>Register as a Presenter or Participant</b></a>
-<br/><ol type=a>
+<!---
+<li><a name="1"><b>Register as a Presenter or Participant</b></a><br/>
+<ol type=a>
 <li>	Register as Presenter of Accepted Papers
 <ul>
 <li>	To get the discount for IEEE Membership, you must login with your IEEE Membership number in the registration form.</li>
@@ -40,8 +41,9 @@ permalink: /registration/
 </li></ol>
 </li>
 <br/>
+-->
 
-<li><a name="2"><b>Registration and all Applicable Fees</b></a><br/>
+<li><a name="1"><b>Registration and all Applicable Fees</b></a><br/>
 <table border=1><tr><td>
 <b>Presenter Registration</b></td><td>	<b>Amount</b>
 </td></tr><tr><td>Member Fee	</td><td>600&euro;
@@ -53,10 +55,13 @@ permalink: /registration/
 </li>
 <br/>
 
+<!---
 <li><a name="3"><b>Complete the Registration Form in the CVent Registration System and submit your payment.</b></a>
 <p>
 After your successful registration completion, the IEEE CVent Registration System will send you an email with your payment confirmation/receipt and registration number.<br/>
 Link to IEEE CVent Registration System <b>** AVAILABLE SOON **</b></p>
 </li> 
+-->
+
 </ol>
 
