@@ -7,7 +7,7 @@ permalink: /registration/
 <h4>REGISTRATION</h4>
 <hr/>
 
-<b>Registration Fees</b></a><br/>
+<b>Registration Fees</b><br/>
 <table border=1><tr><td>
 <b>Presenter Registration</b></td><td>	<b>Amount</b>
 </td></tr><tr><td>Member Fee	</td><td>600&euro;
@@ -71,7 +71,7 @@ permalink: /registration/
 After your successful registration completion, the IEEE CVent Registration System will send you an email with your payment confirmation/receipt and registration number.<br/>
 Link to IEEE CVent Registration System <b>** AVAILABLE SOON **</b></p>
 </li> 
--->
 
 </ol>
 
+-->
