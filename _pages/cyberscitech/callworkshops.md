@@ -43,8 +43,8 @@ Please use 'CyberSciTech 2022 Workshop-SS Proposal' as the email subject. Accept
 
 <b>Workshop/SS Chairs:</b><br/>
 - Wei Song, Shanghai Ocean University (China) < weisong AT wayne DOT edu>
-- Pan Wang, Nanjing University of Posts & Telecom (China) <wangpan AT njupt DOT edu DOT cn >
-- Ao Guo, Nagoya University (Japan) <guo DOT ao AT a DOT mbox DOT nagoya-u DOT ac DOT jp >
+- Pan Wang, Nanjing University of Posts & Telecom (China) < wangpan AT njupt DOT edu DOT cn >
+- Ao Guo, Nagoya University (Japan) < guo DOT ao AT a DOT mbox DOT nagoya-u DOT ac DOT jp >
 
 <b>Important Dates:</b><br/>
 - Workshop/SS Proposal Due: March 15, 2022
