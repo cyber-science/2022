@@ -43,7 +43,7 @@ Please use 'DASC 2022 Workshop-SS Proposal' as the email subject. Accepted propo
 
 <b>Workshop/SS Chairs:</b><br/>
 - Andrea Tundis, Technische Universitat Darmstadt, Germany < tundis AT tk DOT tu-darmstadt DOT de >
- Junggab Son, Kennesaw State University, USA, < json AT kennesaw DOT edu >
+- Junggab Son, Kennesaw State University, USA, < json AT kennesaw DOT edu >
 
 <b>Important Dates:</b><br/>
 - Workshop/SS Proposal Due: March 15, 2022
