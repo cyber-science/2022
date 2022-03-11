@@ -40,7 +40,8 @@ Roberto Casadei, University of Bologna (Italy)
 <h4> Workshop & Special Session Chairs	</h4>
 Wei Song, Shanghai Ocean University (China)<br/>
 Pan Wang, Nanjing University of Posts & Telecom (China)<br/>
-Ao Guo, Nagoya University (Japan)
+Ao Guo, Nagoya University (Japan)<br/>
+Gwanggil Jeon, Incheon National University (South Korea)
 
 <h4>Special Issue Chairs </h4>
 Gautam Srivastava, Brandon University (Canada) <br/>
