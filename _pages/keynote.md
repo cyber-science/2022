@@ -9,7 +9,7 @@ permalink: /keynote/
 <hr/>
 
 <h4>Energy-Optimized Partial Computation Offloading for Delay-Sensitive Applications in Heterogeneous Mobile Edge Computing</h4>
-<img src="/2022/assets/images/mzhou.jpg" align="left" style="border:10px solid white"> MengChu Zhou, Distinguished Professor
+<img src="/2022/assets/images/mzhou.jpg" align="left" style="border:10px solid white" width="150"> MengChu Zhou, Distinguished Professor
 <br/>
 Helen and John C. Hartmann Department of Electrical and Computer Engineering, New Jersey Institute of Technology, USA
 <p>
@@ -52,7 +52,7 @@ Transportation Systems, and IEEE Transactions on Systems, Man, and Cybernetics: 
 <hr/>
 
 <h4>Side and Covert Channels: the Dr. Jekyll and Mr Hyde of Modern Technologies</h4>
-<img src="/2022/assets/images/mconti.jpg" align="left" style="border:10px solid white"> Mauro Conti, Full Professor 
+<img src="/2022/assets/images/mconti.jpg" align="left" style="border:10px solid white" width="150"> Mauro Conti, Full Professor 
 <br/>
 University of Padua, Italy
 <p>
@@ -101,7 +101,7 @@ Member of the ACM, and Fellow of the Young Academy of Europe.
 <hr/> 
 
 <h4>The path from rigid to soft robotics: Symbiotic Control of Wearable Soft Suits for human Augmentation and Assistance</h4>
-<img src="/2022/assets/images/lmasia.jpg" align="left" style="border:10px solid white"> Lorenzo Masia, Professor 
+<img src="/2022/assets/images/lmasia.jpg" align="left" style="border:10px solid white" width="150"> Lorenzo Masia, Professor 
 <br/>
 Institut fur Technische Informatik (ZITI), Heidelberg University, Germany
 
