@@ -13,7 +13,7 @@ permalink: /keynote/
 <br/>
 Helen and John C. Hartmann Department of Electrical and Computer Engineering, New Jersey Institute of Technology, USA
 <p>
-<b>Abstract:</b>Mobile edge computing (MEC) is an emerging architecture that supports computing, storage, and networking 
+<b>Abstract: </b>Mobile edge computing (MEC) is an emerging architecture that supports computing, storage, and networking 
 resources to users’ mobile devices (MDs). MDs have limited resources and energy capacity, and they have to offload 
 some tasks of computational/delay-intensive applications to their nearby small base station (SBS), which is a paradigm 
 of MEC. Although task offloading decreases energy consumed by MDs, it brings additional transmission delay among MDs 
@@ -32,7 +32,7 @@ optimization. Simulations with real-world data demonstrate that GSP significantl
 in the energy consumption of the system.
 </p>
 <p>
-<b>Biography:</b>MengChu Zhou received his B.S. degree in Control Engineering from Nanjing University of Science and 
+<b>Biography: </b>MengChu Zhou received his B.S. degree in Control Engineering from Nanjing University of Science and 
 Technology, Nanjing, China in 1983, M.S. degree in Automatic Control from Beijing Institute of Technology, Beijing, 
 China in 1986, and Ph. D. degree in Computer and Systems Engineering from Rensselaer Polytechnic Institute, Troy, 
 NY in 1990.  He joined New Jersey Institute of Technology (NJIT), Newark, NJ in 1990, and is now Distinguished 
@@ -56,7 +56,7 @@ Transportation Systems, and IEEE Transactions on Systems, Man, and Cybernetics: 
 <br/>
 University of Padua, Italy
 <p>
-<b>Abstract:</b>While Smartphone and IoT devices usage become more and more pervasive,
+<b>Abstract: </b>While Smartphone and IoT devices usage become more and more pervasive,
 people start also asking to which extent such devices can be maliciously
 exploited as “tracking devices”. The concern is not only related to an
 adversary taking physical or remote control of the device, but also to
@@ -74,7 +74,7 @@ keypresses, password & PINs.
 
 </p>
 <p>
-<b>Biography:</b>Mauro Conti is Full Professor at the University of Padua, Italy. He is
+<b>Biography: </b>Mauro Conti is Full Professor at the University of Padua, Italy. He is
 also affiliated with TU Delft and University of Washington, Seattle. He
 obtained his Ph.D. from Sapienza University of Rome, Italy, in 2009.
 After his Ph.D., he was a Post-Doc Researcher at Vrije Universiteit
@@ -106,7 +106,7 @@ Member of the ACM, and Fellow of the Young Academy of Europe.
 Institut fur Technische Informatik (ZITI), Heidelberg University, Germany
 
 <p>
-<b>Abstract:</b>Soft wearable exosuits have been introduced in the last decade as possible candidates to overcome 
+<b>Abstract: </b>Soft wearable exosuits have been introduced in the last decade as possible candidates to overcome 
 the limitations from devices using rigid structures: the exoskeletons.
 Despite the Exosuits initially promised tangible improvements, yet their soft wearable architecture presents 
 strong drawbacks, placing this technology more in a complementary position rather than on a higher step of 
@@ -123,7 +123,7 @@ user and compared such a solution with a classical control approaches.
 
 </p>
 <p>
-<b>Biography:</b>Lorenzo Masia graduated in Mechanical Engineering at “Sapienza” University of 
+<b>Biography: </b>Lorenzo Masia graduated in Mechanical Engineering at “Sapienza” University of 
 Rome in 2003 and in 2007 He accomplished his PhD in "Mechanical Measurement for Engineering" 
 at the University of Padua. 
 He started his path in robotics spending two years at the Mechanical Engineering Dept. of the 
