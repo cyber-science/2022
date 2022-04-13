@@ -41,7 +41,8 @@ Roberto Casadei, University of Bologna (Italy)
 Wei Song, Shanghai Ocean University (China)<br/>
 Pan Wang, Nanjing University of Posts & Telecom (China)<br/>
 Ao Guo, Nagoya University (Japan)<br/>
-Gwanggil Jeon, Incheon National University (South Korea)
+Gwanggil Jeon, Incheon National University (South Korea)<br/>
+Wenjia Li, New York Institute of Technology (USA)
 
 <h4>Special Issue Chairs </h4>
 Gautam Srivastava, Brandon University (Canada) <br/>
