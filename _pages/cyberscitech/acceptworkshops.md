@@ -10,6 +10,8 @@ permalink: /cyberscitech/acceptworkshops/
 <li><a href="/2022/assets/files/ws-ss/cst/CSC-CEA2022_CFP.pdf" target=_new>Cyber Social Computing and Cyber-Enabled Applications (CSC&CEA)</a></li>
 <li><a href="/2022/assets/files/ws-ss/cst/CyberIC2022_CFP.pdf" target=_new>Special Session on Intelligent Computing in Cyber-Physical Social Systems (CyberIC)</a></li>
 <li><a href="/2022/assets/files/ws-ss/cst/SOBIOAPPS2022_CFP.pdf" target=_new>Social and BIOmetric data for APPlications in human-machine interactions: Models and algorithmS (SOBIOAPPS)</a></li>
+<li><a href="/2022/assets/files/ws-ss/cst/Cyber-IoT2022_CFP.pdf" target=_new>Computing and Applications for Cyber Internet of Things (Cyber-IoT 2022)</a></li>
+<li><a href="/2022/assets/files/ws-ss/cst/TMLAE2022_CFP.pdf" target=_new>Trustworthiness of Machine Learning in Adversarial Environments (TMLAE)</a></li>
 </ol>
 
 
