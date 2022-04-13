@@ -147,3 +147,87 @@ He served as Chairman for Workshop/Tutorial for the IEEE International Conferenc
 Editor in Chief and Editor of Publication for IEEE Biorob 2018.
 </p>
 <hr/> 
+
+<h4>Explainable Pervasive Intelligence with Self-explaining Agents</h4>
+<img src="/2022/assets/images/aomicini.jpg" align="left" style="border:10px solid white" width="150"> Andrea Omicini, Full Professor 
+<br/>
+Alma Mater Studiorum–Università di Bologna, Italy
+
+<p>
+<b>Abstract: </b>Pervasiveness of ICT resources along with the promise of ubiquitous intelligence is pushing hard both our demand and our fears of 
+AI: demand mandates for the ability to inject intelligence ubiquitously; fears compel the behaviour of intelligent systems to be observable, explainable, 
+and accountable.  Whereas the first wave of the new "AI Era" was mostly heralded by sub-symbolic approaches, features like explainability are better provided 
+by symbolic techniques.  In particular, the notion of explanation should be regarded as a core notion for intelligent systems, rather than just an add-on to 
+make them understandable to humans. Based on symbolic AI techniques to match intuitive and rational cognition, explanation should then be regarded as a fundamental 
+tool for inter-agent communication among heterogeneous intelligent agents in open multi-agent systems. More generally, self-explaining agents should work as the 
+basic components in the engineering of intelligent systems integrating both symbolic and sub-/non-symbolic AI techniques.
+</p>
+
+<p>
+<b>Biography: </b>Andrea Omicini (Scholar citations 10005, h-index 49 / March 2021) is Full Professor of the Alma Mater Studiorum–Università di Bologna, 
+and holds a PhD in Computer & Electronic Engineering. He has published over 350 articles on multi-agent systems, intelligent systems engineering, computational logic, 
+explainable AI, agreement technologies, self-organising systems, simulation, and pervasive systems. He is Emeritus Member of the Board of Director of the European Association 
+for Multi-Agent Systems (EURAMAS). He has been involved in a number of European projects on AI and MAS, from AgentLink III (2004-2005) to AI4EU (2019-2021) and StairwAI (2021–2023). 
+He is currently teaching intelligent systems engineering, multi-agent systems, and distributed systems.
+</p>
+<hr/> 
+
+<h4>Neoteric Frontiers in Cloud and Edge Computing</h4>
+<img src="/2022/assets/images/rbuyya.jpg" align="left" style="border:10px solid white" width="150"> Rajkumar Buyya, Full Professor 
+<br/>
+Cloud Computing and Distributed Systems (CLOUDS) Lab, The University of Melbourne, Australia
+<p>
+<b>Abstract: </b>Computing is being transformed to a model consisting of services that are delivered in a manner
+similar to utilities such as water, electricity, gas, and telephony. In such a model, users access
+services based on their requirements without regard to where the services are hosted or how they
+are delivered. Cloud computing paradigm has turned this vision of "computing utilities" into a
+reality. It offers infrastructure, platform, and software as services, which are made available to
+consumers as subscription-oriented services. Cloud application platforms need to offer (1) APIs
+and tools for rapid creation of elastic applications and (2) a runtime system for deployment of
+applications on geographically distributed computing infrastructure in a seamless manner.
+The Internet of Things (IoT) paradigm enables seamless integration of cyber-and-physical
+worlds and opening up opportunities for creating new class of applications for domains such as
+smart cities and smart healthcare. The emerging Fog/Edge computing paradigm is extends Cloud
+computing model to edge resources for latency sensitive IoT applications with a seamless
+integration of network-wide resources all the way from edge to the Cloud.
+This keynote presentation will cover (a) 21st century vision of computing and identifies various
+IT paradigms promising to deliver the vision of computing utilities; (b) innovative architecture
+for creating elastic Clouds integrating edge resources and managed Clouds, (c) Aneka 5G, a
+Cloud Application Platform, for rapid development of Cloud/Big Data applications and their
+deployment on private/public Clouds with resource provisioning driven by SLAs, (d) a novel
+FogBus software framework with Blockchain-based data-integrity management for facilitating
+end-to-end IoT-Fog/Edge-Cloud integration for execution of sensitive IoT applications, (e)
+experimental results on deploying Cloud and Big Data/ IoT applications in engineering, and
+health care (e.g., COVID-19), deep learning/Artificial intelligence (AI), satellite image
+processing, natural language processing (mining COVID-19 research literature for new insights)
+and smart cities on elastic Clouds; and (f) directions for delivering our 21st century vision along
+with pathways for future research in Cloud and Edge/Fog computing.
+</p>
+
+<p>
+<b>Biography: </b>Dr. Rajkumar Buyya is a Redmond Barry Distinguished Professor and Director of the Cloud
+Computing and Distributed Systems (CLOUDS) Laboratory at the University of Melbourne,
+Australia. He is also serving as the founding CEO of Manjrasoft, a spin-off company of the
+University, commercializing its innovations in Cloud Computing. He has authored over
+850 publications and seven text books including "Mastering Cloud Computing" published by
+McGraw Hill, China Machine Press, and Morgan Kaufmann for Indian, Chinese and
+international markets respectively. Dr. Buyya is one of the highly cited authors in computer
+science and software engineering worldwide (h-index=153, g-index=332, and 123,600+
+citations).  Dr. Buyya is recognised as Web of Science “Highly Cited Researcher” for six
+consecutive years since 2016, IEEE Fellow, and Scopus Researcher of the Year 2017 with
+Excellence in Innovative Research Award by Elsevier. He has been recognised as the "Best of
+the World" twice for research fields (in Computing Systems in 2019 and Software Systems in
+2021) as well as "Lifetime Achiever" and "Superstar of Research" in "Engineering and Computer
+Science" discipline twice (2019 and 2021) by the Australian Research Review. Recently, he
+received "Research Innovation Award" from IEEE Technical Committee on Services Computing
+and "Research Impact Award" from IEEE Technical Committee on Cloud Computing.
+Software technologies for Grid, Cloud, and Fog computing developed under Dr.Buyya&#39;s
+leadership have gained rapid acceptance and are in use at several academic institutions and
+commercial enterprises in 50+ countries around the world. Manjrasoft&#39;s Aneka Cloud technology
+developed under his leadership has received "Frost New Product Innovation Award". He served
+as founding Editor-in-Chief of the IEEE Transactions on Cloud Computing. He is currently
+serving as Editor-in-Chief of Software: Practice and Experience, a long standing journal in the
+field established 50+ years ago. For further information on Dr.Buyya, please visit his cyberhome:
+www.buyya.com
+</p>
+<hr/> 
