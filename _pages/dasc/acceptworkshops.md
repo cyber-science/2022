@@ -9,7 +9,7 @@ permalink: /dasc/acceptworkshops/
 
 <ol>
 <li><a href="/2022/assets/files/ws-ss/dasc/HIEMI2022_CFP.pdf" target=_new>1st International Workshop on Hybrid Internet of Everything Models for Industry 5.0 (HIEMI)</a></li>
-<li><a href="/2022/assets/files/ws-ss/dasc/IoT&Security_CFP.pdf" target=_new>1st International Workshop on IoT & Security (IoT&Security)</a></li>
+<li><a href="/2022/assets/files/ws-ss/dasc/IoT&Security2022_CFP.pdf" target=_new>1st International Workshop on IoT & Security (IoT&Security)</a></li>
 </ol> 
 
 <!---
