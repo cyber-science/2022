@@ -23,4 +23,5 @@ permalink: /cyberscitech/acceptworkshops/
 <li><a href="/2022/assets/files/ws-ss/cst/BigCyberSecurity2022_CFP.pdf" target=_new>The 4th IEEE International Workshop on Big Data Analytics for Cyber Security and Defence (BigCyberSecurity 2022)</a></li>
 <li><a href="/2022/assets/files/ws-ss/cst/EDCSTA2022_CFP.pdf" target=_new>The 6th International Workshop on Emerging Dependable Computing System Technologies and Applications (EDCSTA 2022)</a></li>
 <li><a href="/2022/assets/files/ws-ss/cst/IoT-Life2022_CFP.pdf" target=_new>The 3rd International Workshop on Impact of Internet of Things on Daily Life (IoT-Life 2022)</a></li>
+<li><a href="/2022/assets/files/ws-ss/cst/CSSI2022_CFP.pdf" target=_new>The 3rd International Workshop on Cyber System Security and Intelligence (CSSI 2022)</a></li>
 </ol>
