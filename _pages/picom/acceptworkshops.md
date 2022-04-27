@@ -16,5 +16,5 @@ permalink: /picom/acceptworkshops/
 
 <ol>
 <li><a href="/2022/assets/files/ws-ss/cst/AmI2022_CFP.pdf" target=_new>The 1st International Workshop on Cybersecurity Issues of IoT in Ambient Intelligence environment (AmI 2022)</a></li>
-<li>Workshop on Digital Twins for Business Processes (DT4BP)</li>
+<li><a href="/2022/assets/files/ws-ss/picom/DT4BP2022_CFP.pdf.pdf" target=_new>Workshop on Digital Twins for Business Processes (DT4BP)</a></li>
 </ol>
