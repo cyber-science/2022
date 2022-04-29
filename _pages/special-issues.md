@@ -41,6 +41,14 @@ Guest Editors:
 Prof. Andrei Gurtov - Linkoping University (Sweden), Prof. Giancarlo Fortino - University of Calabria (Italy), Prof. Salil Kanhere - University of New South Wales (Australia), Asst. Prof. Madhusanka Liyanage - University College Dublin (Ireland)
 </li>
 
+<li>Special Issue on <a href="/2022/assets/files/si/JSA_SI_0331.pdf" target=_new><b> Distributed Learning and Blockchain Enabled Infrastructures for Next Generation of Big Data Driven Cyber-Physical Systems</b></a> in <i>Journal of Systems Architecture</i>
+<br/>
+Guest Editors:
+<br/>
+Prof. Xiaokang Zhou (Managing Guest Editor) - Shiga University (Japan), Prof. Giancarlo Fortino - University of Calabria (Italy), Prof. Alireza Jolfaei - Flinders University (Australia), Prof. Lianyong Qi - Qufu Normal University (China), Prof. Mohammad Hammoudeh - Manchester Metropolitan University (UK)
+
+</li>
+
 </ol>
 
 <p>
