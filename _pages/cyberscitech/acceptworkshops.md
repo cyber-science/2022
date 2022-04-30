@@ -19,5 +19,5 @@ permalink: /cyberscitech/acceptworkshops/
 <li><a href="/2022/assets/files/ws-ss/cst/IoT-Life2022_CFP.pdf" target=_new>The 3rd International Workshop on Impact of Internet of Things on Daily Life (IoT-Life 2022)</a></li>
 <li><a href="/2022/assets/files/ws-ss/cst/CSSI2022_CFP.pdf" target=_new>The 3rd International Workshop on Cyber System Security and Intelligence (CSSI 2022)</a></li>
 <li><a href="/2022/assets/files/ws-ss/cst/ACL2022_CFP.pdf" target=_new>The International Workshop on Adaptive Cyber Learning 2022 (ACL 2022)</a></li>
-<li>The 1st International Workshop on COMMunity-OrieNted WEARrable Computing Systems (COMMON-WEARS 2022)</li>
+<li><a href="/2022/assets/files/ws-ss/cst/COMMONWEARS2022_CFP.pdf" target=_new>The 1st International Workshop on COMMunity-OrieNted WEARrable Computing Systems (COMMON-WEARS 2022)</a></li>
 </ol>

@@ -20,8 +20,8 @@ Pietro Manzoni, UPV (Spain)
 Antonio Guerrieri, ICAR-CNR (Italy)
 
 <h4>Program Co-chairs</h4>
-Paulo Pires, UFRJ (Brazil)<br/>
-Giuseppe M. L. Sarnè, University of Milan-Bicocca, (Italy)<br/>
+Paulo Pires, Fluminense Federal University (Brazil)<br/>
+Giuseppe M. L. Sarnè, University of Milan-Bicocca (Italy)<br/>
 Marco Levorato, University of California, Irvine (USA)<br/>
 Deepak Puthal, Newcastle University (UK)
 
