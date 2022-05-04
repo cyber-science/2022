@@ -4,10 +4,11 @@ layout: subpi
 permalink: /picom/
 ---
 
+<div class="row">
+<div class="col-md-8 mb-5">
+
 <h4>September 12-15, 2022 - Physical Conference *</h4>
 <hr/>
-
-<p><b>Computational Intelligence for Pervasive Systems</b></p>
 
 <p>
 Over the last fifty years, computational intelligence has evolved from artificial intelligence, nature-inspired computing, and social-oriented technology to cyber-physical integrated ubiquitous intelligence towards Pervasive Intelligence (PI). The IEEE International Conference on Pervasive Intelligence and Computing is intended to cover all kinds of these intelligent paradigms as well as their applications in various pervasive computing domains.
@@ -15,3 +16,6 @@ PICom-2022 is the conference on Pervasive Intelligence and Computing, previously
 </p>
 
 <p><i>* Authors who are unable to attend physically, due to pandemic-related situations, will have the opportunity to present their work remotely.</i></p>
+
+</div>
+</div>

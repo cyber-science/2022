@@ -4,6 +4,8 @@ layout: subcbd
 permalink: /cbdcom/
 ---
 
+<div class="row">
+<div class="col-md-8 mb-5">
 
 <h4>September 12-15, 2022 - Physical Conference *</h4>
 <hr/>
@@ -16,4 +18,7 @@ IEEE CBDCom 2022 will be held in September 12-15, 2022, co-located with IEEE Cyb
 </p>
 
 <p><i>* Authors who are unable to attend physically, due to pandemic-related situations, will have the opportunity to present their work remotely.</i></p>
+
+</div>
+</div>
 
