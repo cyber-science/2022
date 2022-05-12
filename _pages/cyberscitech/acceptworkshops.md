@@ -10,6 +10,7 @@ permalink: /cyberscitech/acceptworkshops/
 <li><a href="/2022/assets/files/ws-ss/cst/CSC-CEA2022_CFP.pdf" target=_new>Cyber Social Computing and Cyber-Enabled Applications (CSC&CEA)</a></li>
 <li><a href="/2022/assets/files/ws-ss/cst/CyberIC2022_CFP.pdf" target=_new>Special Session on Intelligent Computing in Cyber-Physical Social Systems (CyberIC)</a></li>
 <li><a href="/2022/assets/files/ws-ss/cst/Cyber-IoT2022_CFP.pdf" target=_new>Computing and Applications for Cyber Internet of Things (Cyber-IoT 2022)</a></li>
+<li><a href="/2022/assets/files/ws-ss/cst/BigCyberSecurity2022_CFP.pdf" target=_new>The 4th IEEE International Workshop on Big Data Analytics for Cyber Security and Defence (BigCyberSecurity 2022)</a></li>
 </ol>
 
 
