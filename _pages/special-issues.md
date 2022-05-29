@@ -46,7 +46,13 @@ Prof. Andrei Gurtov - Linkoping University (Sweden), Prof. Giancarlo Fortino - U
 Guest Editors:
 <br/>
 Prof. Xiaokang Zhou (Managing Guest Editor) - Shiga University (Japan), Prof. Giancarlo Fortino - University of Calabria (Italy), Prof. Alireza Jolfaei - Flinders University (Australia), Prof. Lianyong Qi - Qufu Normal University (China), Prof. Mohammad Hammoudeh - Manchester Metropolitan University (UK)
+</li>
 
+<li>Special Issue on <a href="/2022/assets/files/si/IEEEIoT-SmartBlockchain-TSP.pdf" target=_new><b> Smart Blockchain for IoT Trust, Security and Privacy</b></a> in <i>IEEE IoT Journal</i>
+<br/>
+Guest Editors:
+<br/>
+Prof. Xiaokang Zhou (Managing Guest Editor) - Shiga University (Japan), Prof. Zheng Yan - Xidian University (China) and Aalto University (Finland), Prof. Yan Zhang - University of Oslo (Norway), Stephen Yau - Arizona State University (USA)
 </li>
 
 </ol>
