@@ -7,7 +7,7 @@ permalink: /cbdcom/
 <div class="row">
 <div class="col-md-8 mb-5">
 
-<h4>September 12-15, 2022 - Physical Conference *</h4>
+<h4>September 12-15, 2022 - Physical Conference * - Calabria, Italy</h4>
 <hr/>
 
 <p>The IEEE International Conference on Cloud and Big Data Computing is a premier forum for researchers, practitioners and developers who are interested in cloud computing and big data to explore new ideas, techniques and tools, as well as to exchange experience. Besides the latest research achievements, the conference covers also innovative commercial data management systems, innovative commercial applications of cloud computing and big data technology, and experience in applying recent research advances to real-world problems</p>

@@ -7,7 +7,7 @@ permalink: /picom/
 <div class="row">
 <div class="col-md-8 mb-5">
 
-<h4>September 12-15, 2022 - Physical Conference *</h4>
+<h4>September 12-15, 2022 - Physical Conference * - Calabria, Italy</h4>
 <hr/>
 
 <p>
