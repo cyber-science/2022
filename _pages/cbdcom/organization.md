@@ -25,7 +25,7 @@ Gautam Srivastava, Brandon University (Canada)
 Giuseppe Di Fatta, University of Bozen (Italy) <br/>
 Naercio Magaia, Universidade de Lisboa (Portugal)<br/>
 Jerry Chun-Wei Lin, WNUAS (Norway)<br/>
-Victor Chang, Teesside University (UK)
+Victor Chang, Aston University (UK)
 
 <!---
 <h4>Track Chairs</h4>
