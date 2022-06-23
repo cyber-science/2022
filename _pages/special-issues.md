@@ -55,7 +55,7 @@ Guest Editors:
 Prof. Xiaokang Zhou (Managing Guest Editor) - Shiga University (Japan), Prof. Zheng Yan - Xidian University (China) and Aalto University (Finland), Prof. Yan Zhang - University of Oslo (Norway), Stephen Yau - Arizona State University (USA)
 </li>
 
-<li>Special Issue on <a href="javascript:void(0)" target=_new><b> Digital Twins for Complex Systems</b></a> in <i>Big Data and Cognitive Computing</i>
+<li>Special Issue on <a href="/2022/assets/files/si/DigitalTwinsforComplexSystems.pdf" target=_new><b> Digital Twins for Complex Systems</b></a> in <i>Big Data and Cognitive Computing</i>
 <br/>
 Guest Editors:
 <br/>
