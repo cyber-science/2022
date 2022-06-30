@@ -62,6 +62,13 @@ Guest Editors:
 Dr. Fabrizio Fornari – University of Camerino (Italy), Prof. Pedro Valderas - Universitat Politecnica de Valencia (Spain)
 </li>
 
+<li>Special Issue on <a href="/2022/assets/files/si/JournalofSystemsArchitecture_SI.pdf" target=_new><b> Distributed Learning and Blockchain Enabled Infrastructures for Next Generation of Big Data Driven Cyber-Physical Systems</b></a> in <i>Journal of Systems Architecture</i>
+<br/>
+Guest Editors:
+<br/>
+Prof. Xiaokang Zhou (Managing Guest Editor) - Shiga University (Japan), Prof. Giancarlo Fortino - University of Calabria (Italy), Prof. Carson Leung - University of Manitoba (Canada), Prof. Mohammad Hammoudeh - King Fahd University of Petroleum & Mineral
+</li>
+
 </ol>
 
 <p>
