@@ -13,6 +13,7 @@ permalink: /cyberscitech/acceptworkshops/
 <li><a href="/2022/assets/files/ws-ss/cst/BigCyberSecurity2022_CFP.pdf" target=_new>The 4th IEEE International Workshop on Big Data Analytics for Cyber Security and Defence (BigCyberSecurity 2022)</a></li>
 <li><a href="/2022/assets/files/ws-ss/cst/AICSSEC2022_CFP.pdf" target=_new>AI based Platforms and Cyber security for Smart Energies Communities (AICSSEC 2022)</a></li>
 <li><a href="/2022/assets/files/ws-ss/cst/IDECASCPS2022_CFP.pdf" target=_new>Intelligent Decentralized Edge Computing for Assisted Smart Cyber-Physical Systems (IDECASCPS 2022)</a></li>
+<li><font color=red>** NEW **</font> Late breaking innovation track ** submissions open NOW on Easychair - <font color=red>hard deadline July 20th, 2022 !</font></li>
 </ol>
 
 
