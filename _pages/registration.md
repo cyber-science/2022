@@ -18,7 +18,7 @@ permalink: /registration/
 </ul>
 <br/>
 
-<ol>
+<ul>
 
 <li><b>Register as a Presenter or Participant</b><br/>
 <ol type=a>
@@ -42,9 +42,9 @@ permalink: /registration/
 </li>
 <br/>
 
-</ol>
+</ul>
 
-<b><i>Early-Bird</i> Registration Fees<small><sup>1</small></sup> (VAT included)</b><br/>
+<b><i>Early-Bird</i> Registration Fees<sup>1</sup> (VAT included)</b><br/>
 <table border=1><tr><td>
 <b>Presenter/Participant Registration</b></td><td>	<b>Amount</b>
 </td></tr><tr><td>Member Fee	</td><td>630 USD
@@ -53,7 +53,7 @@ permalink: /registration/
 </td></tr><tr><td>Student Non-Member Fee</td><td>375 USD
 </td></tr><tr><td>Life Member Fee	</td><td>345 USD
 </td></tr><tr><td>Additional paper	</td><td>210 USD
-</td></tr><tr><td>Additional page (max 2)<small><sup>2</small></sup>	</td><td>80 USD
+</td></tr><tr><td>Additional page (max 2)<sup>2</sup>	</td><td>80 USD
 </td></tr></table>
 1. Early-bird registration is available until July 25th, 2022.<br/>
 2. Additional page(s) available for regular and short papers accepted to one of the main conferences, and for regular papers accepted to workshops/special sessions. 
