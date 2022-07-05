@@ -20,9 +20,9 @@ permalink: /registration/
 
 <ol>
 
-<li><a name="1"><b>Register as a Presenter or Participant</b></a><br/>
+<li><b>Register as a Presenter or Participant</b><br/>
 <ol type=a>
-<li>	Register as Presenter of Accepted Papers
+<li>	<i>Register as Presenter of Accepted Papers</i>
 <ul>
 <li>	To get the discount for IEEE Membership, you must login with your IEEE Membership number in the registration form.</li>
 <li>	For each Accepted Paper, at least one author must register and pay the full Registration Fee (see tables below for details).</li>
@@ -34,7 +34,7 @@ permalink: /registration/
 </ul>
 </li>
 
-<li>	Register as a Participant
+<li>	<i>Register as a Participant</i>
 <ul><li>	To get the discount for IEEE Membership, you must login with your IEEE Membership number in the registration form.
 </li><li>	If you are a student, but not an IEEE member,  you must upload a scan of your student ID card in the registration form to receive the student discount.
 </li></ul>
@@ -44,7 +44,7 @@ permalink: /registration/
 
 </ol>
 
-<b><i>Early-Bird</i> Registration Fees* (VAT included)</b><br/>
+<b><i>Early-Bird</i> Registration Fees<small><sup>1</small></sup> (VAT included)</b><br/>
 <table border=1><tr><td>
 <b>Presenter/Participant Registration</b></td><td>	<b>Amount</b>
 </td></tr><tr><td>Member Fee	</td><td>630 USD
@@ -53,10 +53,10 @@ permalink: /registration/
 </td></tr><tr><td>Student Non-Member Fee</td><td>375 USD
 </td></tr><tr><td>Life Member Fee	</td><td>345 USD
 </td></tr><tr><td>Additional paper	</td><td>210 USD
-</td></tr><tr><td>Additional page (max 2)**	</td><td>80 USD
+</td></tr><tr><td>Additional page (max 2)<small><sup>2</small></sup>	</td><td>80 USD
 </td></tr></table>
-* Early-bird registration is available until July 25th, 2022.<br/>
-** Additional page(s) available for regular and short papers accepted to one of the main conferences, and for regular papers accepted to workshops/special sessions. 
+1. Early-bird registration is available until July 25th, 2022.<br/>
+2. Additional page(s) available for regular and short papers accepted to one of the main conferences, and for regular papers accepted to workshops/special sessions. 
    It is not allowed to buy additional pages for papers accepted as "short" in workshops and special sessions.<br/>
 
 <b><i>Late</i> Registration Fees (VAT included)</b><br/>
@@ -67,8 +67,7 @@ permalink: /registration/
 </td></tr><tr><td>Student Member Fee</td><td>375 USD
 </td></tr><tr><td>Student Non-Member Fee</td><td>455 USD
 </td></tr><tr><td>Life Member Fee	</td><td>420 USD
-</td></tr></table>
-
+</td></tr></table><br/>
 
 <b>Registration includes</b>: All sessions entry, Welcome kit, Coffee breaks, Welcome reception, Social event and social dinner 
 (social dinner is not included in student rates and can be separately purchased).
