@@ -31,6 +31,7 @@ permalink: /crs/
 <li>Log in to <a href="https://easychair.org/conferences/?conf=dascpicomcbdcomcyber"><u>Easychair</u><a> and then click on the link "proceedings author (IEEE Proceedings) <b><font color=red>SOON AVAILABLE</font></b>".
 <li>Click on "Sign Copyright Agreement" in order to submit your copyright transfer.
 <li>Upload the camera ready zip file previously created.
+</ul>
 
 <p>Should you have any concern on your final paper submission, please send an e-mail to: giancarlo.fortino@unical.it and claudio.savaglio@icar.cnr.it</p>
 
