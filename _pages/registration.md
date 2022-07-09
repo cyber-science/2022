@@ -13,8 +13,7 @@ permalink: /registration/
 <li>	After successful payment transaction, IEEE will send you a payment receipt by email.</li>
 <li>	Each participant is requested to fill out the other fields in the IEEE CVent Registration system.</li>
 <li>	All registered participants can attend all the co-located conferences sessions and download the proceedings.</li>
-<!---<li>	<a href="https://web.cvent.com/event/60c3ff29-dfea-4c59-a543-adcdfcadae01/summary" target=_new>Link to IEEE Membership Information.</a></li>-->
-<li>	<b>Link to IEEE CVent Registration page <font color=red>SOON AVAILABLE</font></b></li>
+<li>	<a href="https://cvent.me/RL9xyl" target=_new><u>Link to IEEE Conference Registration page</u></a></li>
 </ul>
 <br/>
 
@@ -30,7 +29,9 @@ permalink: /registration/
     Easychair Paper ID, and Paper Title. (<b>Note: The same author can register only one additional paper paying extra 210 USD.</b>).</li>
 <li>The deadline for registration and FULL payment for authors/presenters is July 25th, 2022 at 23:30 MST. If your full payment is not received by the deadline, your paper will be not included in the proceedings.</li>
 <li>If you miss any portion of your papyment (e.g. an extra page), you may go back into the registration system and add it, even after you have completed your initial registration.</li>
-<li>Note: The paper must be presented during the conference; <b>"No Show Policy" will be applied</b>.</li>
+<li>Note: The paper must be presented during the conference; <b>"No Show Policy" will be applied</b>.<br/>
+Please email <a href="mailto:registration+DPCC@computer.org"><b>registration+DPCC@computer.org</b></b> if you need any registration assistance. For questions regarding author camera ready submissions, please visit the <a href="http://cyber-science.org/2022/crs/" target=_new><u>dedicated page</u></a>.
+</li>
 </ul>
 </li>
 
