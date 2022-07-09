@@ -30,8 +30,7 @@ permalink: /registration/
 <li>The deadline for registration and FULL payment for authors/presenters is July 25th, 2022 at 23:30 MST. If your full payment is not received by the deadline, your paper will be not included in the proceedings.</li>
 <li>If you miss any portion of your papyment (e.g. an extra page), you may go back into the registration system and add it, even after you have completed your initial registration.</li>
 <li>Note: The paper must be presented during the conference; <b>"No Show Policy" will be applied</b>.<br/>
-Please email <a href="mailto:registration+DPCC@computer.org"><b>registration+DPCC@computer.org</b></b> if you need any registration assistance. For questions regarding author camera ready submissions, please visit the <a href="http://cyber-science.org/2022/crs/" target=_new><u>dedicated page</u></a>.
-</li>
+Please email <a href="mailto:registration+DPCC@computer.org"><b>registration+DPCC@computer.org</b></a> if you need any registration assistance. For questions regarding author camera ready submissions, please visit the <a href="http://cyber-science.org/2022/crs/" target=_new><u>dedicated page</u></a>.</li>
 </ul>
 </li>
 
