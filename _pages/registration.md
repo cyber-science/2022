@@ -64,7 +64,7 @@ Please email <a href="mailto:registration+DPCC@computer.org"><b>registration+DPC
 </td></tr><tr><td>Student Member Fee</td><td>315 USD
 </td></tr><tr><td>Student Non-Member Fee</td><td>375 USD
 </td></tr><tr><td>Life Member Fee    </td><td>345 USD
-</td></tr></table>
+</td></tr></table><br/>
 
 <b><i>Late</i> Registration Fees (VAT included)</b><br/>
 <table border=1><tr><td>
