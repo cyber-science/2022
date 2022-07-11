@@ -46,18 +46,25 @@ Please email <a href="mailto:registration+DPCC@computer.org"><b>registration+DPC
 
 <b><i>Early-Bird</i> Registration Fees<sup>1</sup> (VAT included)</b><br/>
 <table border=1><tr><td>
-<b>Presenter/Participant Registration</b></td><td>	<b>Amount</b>
-</td></tr><tr><td>Member Fee	</td><td>630 USD
-</td></tr><tr><td>Non-Member Fee	</td><td>755 USD
-</td></tr><tr><td>Student Member Fee</td><td>315 USD
-</td></tr><tr><td>Student Non-Member Fee</td><td>375 USD
-</td></tr><tr><td>Life Member Fee	</td><td>345 USD
+<b>Presenter Registration</b></td><td>	<b>Amount</b>
+</td></tr><tr><td>Member / Student Member / Life Member Fee	</td><td>630 USD
+</td></tr><tr><td>Non-Member / Student Non-Member Fee	</td><td>755 USD
 </td></tr><tr><td>Additional paper	</td><td>210 USD
 </td></tr><tr><td>Additional page (max 2)<sup>2</sup>	</td><td>80 USD
 </td></tr></table>
 1. Early-bird registration is available until July 25th, 2022.<br/>
 2. Additional page(s) available for regular and short papers accepted to one of the main conferences, and for regular papers accepted to workshops/special sessions. 
    It is not allowed to buy additional pages for papers accepted as "short" in workshops and special sessions.<br/>
+
+<b><i>Early-Bird</i> Registration Fees (VAT included)</b><br/>
+<table border=1><tr><td>
+<b>Participant Registration</b></td><td>    <b>Amount</b>
+</td></tr><tr><td>Member Fee    </td><td>630 USD
+</td></tr><tr><td>Non-Member Fee    </td><td>755 USD
+</td></tr><tr><td>Student Member Fee</td><td>315 USD
+</td></tr><tr><td>Student Non-Member Fee</td><td>375 USD
+</td></tr><tr><td>Life Member Fee    </td><td>345 USD
+</td></tr></table>
 
 <b><i>Late</i> Registration Fees (VAT included)</b><br/>
 <table border=1><tr><td>
