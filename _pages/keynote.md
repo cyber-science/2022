@@ -230,4 +230,27 @@ serving as Editor-in-Chief of Software: Practice and Experience, a long standing
 field established 50+ years ago. For further information on Dr.Buyya, please visit his cyberhome:
 www.buyya.com
 </p>
+
+
+<h4>Metaverse, web3, and the NFT market</h4>
+<img src="/2022/assets/images/martino.jpg" align="left" style="border:10px solid white" width="150"> Mauro Martino, Principal Research Scientist 
+<br/>
+MIT-IBM Watson AI Lab, Cambridge, MA, USA
+<p>
+<b>Abstract: </b>Non Fungible Tokens (NFTs) are digital assets that represent objects like art, collectible, and in-game items. They are traded online, often with cryptocurrency, and are generally encoded within smart contracts on a blockchain. In the Metaverse it is possible to collect avatars and game items, wear digital designer clothes and exhibit intangible works of art, all easily purchased in the form of NFTs. 
+We looked at 6.1 million trades of 4.7 million NFTs to learn about market traders, visual features and price prediction. During this talk, we will try to understand self-organizing communities in web3 networks, especially art-related communities. Is the decentralised NFT world really decentralised? Or is it re-creating the same structures we know in the traditional art market?
+</p>
+
+<p>
+<b>Biography: </b>Mauro Martino is a Principal Research Scientist at the MIT-IBM Watson AI Lab (Cambridge, MA, USA), where he founded and directs the Visual Artificial Intelligence Lab. He was formerly an Assistant Research Professor at Northeastern University working with Albert-Laszlo Barabasi at the Center for Complex Network Research and with David Lazer at the Institute for Quantitative Social Science (IQSS) at Harvard University.
+He obtained his PhD with a thesis in Urban Interaction Design within Carlo Ratti’s Senseable City Lab (Massachusetts Institute of Technology), and Polytechnic University of Milan.
+Mauro holds several patents and has co-authored over 40 scientific publications. He has created data visualization for the BBC, Scientific American, The New York Times, The Washington Post, Süddeutsche Zeitung, Der Spiegel, Le Figaro, Corriere della Sera, National Geographic, Popular Science, Wired. His work has been exhibited worldwide at venues such as the Venice Biennale, the Serpentine Gallery in London, the Ludwig Museum in Budapest, GAFTA in San Francisco, Lincoln Center in New York, the ZKM | Center for Art and Media in Karlsruhe (Germany), and his work is part of the permanent collection of the Ars Electronica Center in Linz.
+Mauro has been a presenter at TEDx Cambridge (2012) and TEDx Latvia (2016), his works have been featured in scientific journals such as Nature, Science, PNAS, and textbooks about AI Art and Data Visualization: «Possible Futures: Art scenarios and artificial intelligence» by Rebecca Pedrazzi, «Data Visualization» by Andy Kirk, «The Truthful Art» by Alberto Cairo, «The Best American Infographics» 2015 and 2016 editions.
+Mauro is an award-winning designer whose projects received the Gold Medal at the 2017 Vizzies Visualization Challenge by National Science Foundation, he has won several times the Webby Award, the Innovation by Design Award (by Fast Company), the Information is Beautiful Award.
+His art project AIPortraits (2018/2019) was the first generative GAN-based application to go viral worldwide, with over 8 million unique users per day. In 2018 he presented at NeurIPS the first collection of sculptures generated with a 3D GAN model he invented.
+Mauro Martino is Professor of Practice at Northeastern University, where he has been teaching the Artificial Intelligence for Creativity and Design course for several years. Each year he gives workshops and lectures on AI and Creativity at various universities, including MIT and Harvard University.
+</p>
+
+
+
 <hr/> 
