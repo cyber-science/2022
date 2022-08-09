@@ -251,6 +251,46 @@ His art project AIPortraits (2018/2019) was the first generative GAN-based appli
 Mauro Martino is Professor of Practice at Northeastern University, where he has been teaching the Artificial Intelligence for Creativity and Design course for several years. Each year he gives workshops and lectures on AI and Creativity at various universities, including MIT and Harvard University.
 </p>
 
+<h4>Consensus Protocols for Connecting Autonomous Vehicles</h4>
+Maria Pia Fanti, Full Professor
+<br/>
+Polytechnic University of Bari, Italy
+<p>
+<b>Abstract: </b>The distributed control problem of multi-agent networks received tremendous attention in the last
+decades due to its applications in different areas. Each agent is a dynamical system and the problem of
+reaching an agreement on all or some components of the agents’ status is known as consensus problem.
+The talk presents two strategies of consensus protocols to be applied in leaderless network of agents.
+The first consensus protocol is applied by vehicles that that have to reach a common velocity while
+forming a uniformly spaced string. The consensus protocol parameters are optimized for networks
+characterized by a communication topology described by a class of directed graph having a directed
+spanning tree, in order to maximize the convergence rate and avoid oscillations.
+The second consensus protocol solves an intersection management problem by using only V2V
+communication, i.e., without employing an external intersection management agent. The AVs apply an
+iterative algorithm, which avoids collisions crossing the intersection and minimizes the delay or the
+anticipation with respect to a forecast exit time from the intersection.
+The talk will enlighten that the presented control methods will be applied in Horizon Europe projects
+for managing connected, cooperative ad automated vehicles.
+</p>
+
+<p>
+<b>Biography: </b>Maria Pia Fanti (M’92-SM’02-F’17) received the Laurea degree in electronic engineering from the
+University of Pisa, Pisa, Italy, in 1983. She was a visiting researcher at the Rensselaer Polytechnic
+Institute of Troy, New York, in 1999. Since 1983, she has been with the Department of Electrical and
+Information Engineering of the Polytechnic University of Bari, Italy, where she is currently a Full
+Professor of system and control engineering and Chair of the Laboratory of Automation and Control.
+Her research interests include management and modeling of complex systems, such as transportation,
+logistics and manufacturing systems; discrete event systems; Petri nets; consensus protocols; fault
+detection. Prof. Fanti has published more than 320 papers and two textbooks on her research topics.
+She was senior editor of the IEEE Trans. on Automation Science and Engineering and she is Associate
+Editor of the IEEE Trans. on Systems, Man, and Cybernetics: Systems. She was member at large of the
+Board of Governors of the IEEE Systems, Man, and Cybernetics Society, and currently she is member
+of the AdCom of the IEEE Robotics and Automaton Society, and chair of the Technical Committee on
+Automation in Logistics of the IEEE Robotics and Automation Society. Prof. Fanti was General Chair
+of the 2011 IEEE Conference on Automation Science and Engineering, the 2017 IEEE International
+Conference on Service Operations and logistics, and Informatics and the 2019 IEEE Systems, Man, and
+Cybernetics Conference.
+</p>
+
 
 
 <hr/> 
