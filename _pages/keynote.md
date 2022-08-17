@@ -252,7 +252,7 @@ Mauro Martino is Professor of Practice at Northeastern University, where he has 
 </p>
 
 <h4>Consensus Protocols for Connecting Autonomous Vehicles</h4>
-Maria Pia Fanti, Full Professor
+<img src="/2022/assets/images/fanti.png" align="left" style="border:10px solid white" width="150"> Maria Pia Fanti, Full Professor
 <br/>
 Polytechnic University of Bari, Italy
 <p>
