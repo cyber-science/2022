@@ -16,7 +16,12 @@ Cyberspace, the seamless integration of physical, social, and mental spaces, is 
 
 <p>To address these challenges, there is a need to establish new science and research portfolios that incorporate cyber-physical, cyber-social, cyber-intelligent, and cyber-life technologies in a cohesive and efficient manner. This is the aim of the IEEE Cyber Science and Technology Congress (CyberSciTech). IEEE CyberSciTech has been successfully held in Auckland, New Zealand, in 2016, in Orlando, USA, in 2017, in Athens, Greece, in 2018, Fukuoka, Japan, in 2019, and Online due to COVID-19, hosted in Canada in 2020 and 2021.</p><p>In 2022, we will continue to offer IEEE CyberSciTech with the aim of providing a common platform for scientists, researchers, and engineers to share their latest ideas and advances in the broad scope of cyber-related science, technology, and application topics. In addition, this is also a platform to allow relevant stakeholders to get together, discuss and identify ongoing and emerging challenges, in order to understand and shape new cyber-enabled worlds.</p>
 <p>IEEE CyberSciTech 2022 will be co-located with IEEE DASC 2022, IEEE CDBCom 2022, and IEEE PICom 2022 and several interesting workshops.</p>
-
+<br/>
+<br/>
+	<font color=red><b>IMPORTANT Health & Safety Measures: </b></font> We warmly remark that all participants must wear FFP2 face masks at all times while attending the conference activities, both outdoor and indoor.
+	Thank you for your understanding.	
+<br/>
+<br/>
 <p><i>* Authors who are unable to attend physically, due to pandemic-related situations, will have the opportunity to present their work remotely.</i></p>
 
 </div>

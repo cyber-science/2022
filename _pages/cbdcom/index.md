@@ -17,6 +17,13 @@ IEEE CBDCom 2022 will be the 8th edition of the conference after the success of 
 IEEE CBDCom 2022 will be held in September 12-15, 2022, co-located with IEEE CyberSciTech 2022, IEEE PICom 2022, and IEEE DASC 2022. It aims to bring together computer scientists, engineers and researchers from academia and industry to discuss and exchange experimental and theoretical results, work-in-progress, novel designs, and future trends in cloud and big data innovations.
 </p>
 
+<br/>
+<br/>
+	<font color=red><b>IMPORTANT Health & Safety Measures: </b></font> We warmly remark that all participants must wear FFP2 face masks at all times while attending the conference activities, both outdoor and indoor.
+	Thank you for your understanding.	
+<br/>
+<br/>
+
 <p><i>* Authors who are unable to attend physically, due to pandemic-related situations, will have the opportunity to present their work remotely.</i></p>
 
 </div>

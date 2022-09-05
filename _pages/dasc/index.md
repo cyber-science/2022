@@ -20,7 +20,12 @@ At the same time, the increasing scale and complexity of systems call for the au
 IEEE DASC 2022 will be held during September 12-15, 2022, in Calabria, Italy co-located with <a href="http://cyber-science.org/2022/cyberscitech/">IEEE CyberSciTech 2022</a>, 
 <a href="http://cyber-science.org/2022/picom/">IEEE PICom 2022</a>, and <a href="http://cyber-science.org/2022/cbdcom/">IEEE CBDCom 2022</a>. It aims to bring together computer scientists, industrial engineers, and researchers to discuss and exchange theoretical and implementation results, novel designs, work-in-progress, experience, case studies, and trend-setting ideas in the areas of dependability, security, trust and/or autonomic computing, and autonomous systems. 
 </p>
-
+<br/>
+<br/>
+	<font color=red><b>IMPORTANT Health & Safety Measures: </b></font> We warmly remark that all participants must wear FFP2 face masks at all times while attending the conference activities, both outdoor and indoor.
+	Thank you for your understanding.	
+<br/>
+<br/>
 <p><i>* Authors who are unable to attend physically, due to pandemic-related situations, will have the opportunity to present their work remotely.</i></p>
 
 </div>
