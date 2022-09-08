@@ -19,4 +19,10 @@ permalink: /socialevent/
 <b>23.00-23.30</b>: Conference Awards
 <hr/>
 <b>23.30-00.00</b>: Conference Cake & Champaign Final Toast
+<hr/>
 
+<br/>
+
+<div style="text-align: center;">
+  <img src="/2022/assets/images/socialevent.png" alt="social event" style="width: 800px;">
+</div>
