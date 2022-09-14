@@ -4,7 +4,7 @@ layout: sub
 permalink: /socialevent/
 --- 
 
-<div style="text-align: center;"><font color=blue><b>Social event: the great italian songwriter and singer Gianfranco Fasano presents his biographical book "Io Amo"! Follow the live streaming today at 8pm!</b></font><br/><iframe  height="400px"  width="710px"
+<div style="text-align: center;"><font color=blue><b>Social event: the great italian songwriter and singer Gianfranco Fasano presents his biographical book "Io Amo"! <br/>Follow the live streaming today at 8pm!</b></font><br/><iframe  height="400px"  width="710px"
             src="https://webtools-f5842579ff984c1c98d63b8d789673eb.msvdn.net/embed/SOrBDPy?autoPlay=false&skinId=6c2d8b44-9903-493c-bf85-ec27e4d04684"
             frameborder="0" allowfullscreen>
           </iframe>
