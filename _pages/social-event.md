@@ -4,6 +4,14 @@ layout: sub
 permalink: /socialevent/
 --- 
 
+<p><font color=blue><b>Social event: the great italian songwriter and singer Gianfranco Fasano presents his biographical book "Io Amo"! Follow the live streaming today at 8pm!</b></font><br/><iframe  height="100%"  width="100%"
+            src="https://webtools-f5842579ff984c1c98d63b8d789673eb.msvdn.net/embed/SOrBDPy?autoPlay=false&skinId=6c2d8b44-9903-493c-bf85-ec27e4d04684"
+            frameborder="0" allowfullscreen>
+          </iframe>
+</p>
+<br/>
+<hr/>
+
 <h3>Social Event (September 14, 2022)</h3>
 
 <h4>Location: Hotel Eurolido, Falerna (CZ), Italy</h4>
